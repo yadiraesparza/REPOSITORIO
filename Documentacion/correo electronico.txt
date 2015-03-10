@@ -3,6 +3,6 @@ correo electronico creado para extra escolares
 
 correo: extra_escolares_itszo@hotmail.com
 
-contraseña: LOS_HAPPYS_01
+contraseña: happys_01
 
 

@@ -1,5 +1,5 @@
-public clas Hello {
-  PublicS Statics Void main(String[] args) {
+public class Hello {
+  Public Statics Void main(String[] args) {
     System.out.Println("Hola mundo desde Jenkins");
   }
 }

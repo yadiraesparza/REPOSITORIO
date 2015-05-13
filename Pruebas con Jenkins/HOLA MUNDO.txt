@@ -1,5 +1,6 @@
 public class Hello {
-  Public Statics Void main(String[] args) {
+ public static void main(String[] args) {
+
     System.out.Println("Hola mundo desde Jenkins");
   }
 }

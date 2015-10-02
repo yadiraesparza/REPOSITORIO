@@ -1,0 +1,6 @@
+
+/* bin\Configuration/Commands/InsertSpryRepeatList.htm */
+.cls_InsertSpryRepeatList_select_spryListContainer {width:180px}
+.cls_InsertSpryRepeatList_select_spryDS {width:180px}
+.cls_InsertSpryRepeatList_select_spryDSColDis {width:180px}
+.cls_InsertSpryRepeatList_select_spryDSColVal {width:180px}

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Insert a navigation bar</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7c19a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7c18a.html" title="About navigation bars"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7c16a.html" title="Modify a navigation bar"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7c45a.html">Linking and navigation</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7c19a.html"><b>Navigation bars</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Insert a navigation bar
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><div class="section"><p>Before
+using the Insert Navigation Bar command, you must create a set of
+images for the display states of each navigation element. (It can
+be helpful to think of a navigation bar element as a button, because
+when clicked, it takes the user to another page.)</p>
+<div class="tip"><img src="images/tip_help.png" />You
+can create a navigation bar, copy it to other pages in your site,
+use it with frames, and edit the page behaviors to show different
+states as pages are accessed.</div></div>
+<ol><li class="stepexpand"><span>Do one of the following:</span><ul><li><p>Select Insert&#160;&gt; Image Objects&#160;&gt;
+Navigation Bar.</p>
+</li>
+<li><p>In the Common category of the Insert panel, click
+the Images button and select Insert Navigation Bar.</p>
+</li>
+</ul>
+</li>
+<li class="stepexpand"><span>Complete the Insert Navigation Bar dialog box and click
+OK. Here is a partial list of options:</span> <dl><dt class="dlterm">Plus and Minus buttons</dt>
+<dd>Click Plus to insert an element; click Plus again to
+add another one. To delete an element, select it and click Minus.</dd><p class="dlseparator"></p><dt class="dlterm">Element Name</dt>
+<dd> Type a name for a navigation bar element—for example, <samp class="codeph"><kbd class="userinput">Home</kbd></samp>. Each
+element corresponds to a button with a set of up to four image states. Element
+names appear in the Nav Bar Elements list. Use the arrow buttons
+to arrange elements in the navigation bar.</dd><p class="dlseparator"></p><dt class="dlterm">Up, Over, Down, and Over While Down </dt>
+<dd>Browse to select images for these four states. Only the
+Up image is required; other image states are optional.</dd><p class="dlseparator"></p><dt class="dlterm">Alternate Text</dt>
+<dd>Enter a descriptive name for the element. Alternate text
+appears in place of images in text-only browsers or in browsers
+that download images manually. Screen readers read alternate text,
+and some browsers display alternate text when the user moves the
+pointer over the navigation bar element.</dd><p class="dlseparator"></p><dt class="dlterm">When Clicked, Go To URL</dt>
+<dd>Click the Browse button to select a linked file to open,
+and then specify whether to open the file in the same window or
+in a frame. If the frame you want to target doesn’t appear in the
+menu, close the Insert Navigation Bar dialog box and name the frame
+in your document.</dd><p class="dlseparator"></p><dt class="dlterm">Preload Images</dt>
+<dd>Select this option to download images as the page is downloaded.
+This option prevents delays when the user moves the pointer over rollover
+images.</dd><p class="dlseparator"></p><dt class="dlterm">Show Down Image Initially</dt>
+<dd>Select this option for elements that you want to display
+initially in the Down state rather than the default Up state. For
+example, the Home element on the navigation bar should be in its
+Down state when the page is first downloaded. When you apply this
+option to an element, an asterisk appears after its name in the
+Nav Bar Elements list.</dd><p class="dlseparator"></p><dt class="dlterm">Insert</dt>
+<dd>Specify whether to insert elements vertically or horizontally.</dd><p class="dlseparator"></p><dt class="dlterm">Use Tables </dt>
+<dd>Select to insert elements as a table.</dd><p class="dlseparator"></p></dl>
+</li>
+</ol>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7d35a.html">View and set frame properties and attributes</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

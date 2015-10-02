@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Build the delete page</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7896a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WS2A784E71-BCFD-4a62-BCCF-5C0A79EC5EC3a.html" title="Create links to a delete page"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-788da.html" title="Add logic to delete the record"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-78d3a.html">Building applications visually</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7896a.html"><b>Building pages to delete a record</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Build the delete page
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7890a"><h4 class="topictitle4">Create an HTML form to display the record</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-788fa"><h4 class="topictitle4">Retrieve the record the user wants to delete</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-788ea"><h4 class="topictitle4">Display the record the user wants to delete</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>After completing the page listing the records,
+switch to the delete page. The delete page shows the record and
+asks the user if they're sure they want to delete it. When the user
+confirms the operation by clicking the form button, the web application
+deletes the record from the database.</p>
+<p>Building this page consists
+of creating an HTML form, retrieving the record to display in the
+form, displaying the record in the form, and adding the logic to delete
+the record from the database. Retrieving and displaying the record consists
+of defining a recordset to hold a single record—the record the user wants
+to delete—and binding the recordset columns to the form. </p>
+<div class="note"><span class="notetitle">Note:  </span>The
+delete page can contain only one record-editing server behavior
+at a time. For example, you cannot add an Insert Record or an Update
+Record server behavior to the delete page. </div>
+</div>
+</div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7890a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7890a"></a><h3 class="topictitle3">Create an HTML form to display the record</h3><div><ol><li class="stepexpand"><span>Create a page and save it as the delete
+page you specified in the previous section.</span> <p>You specified a delete page when you created the Delete
+link in the previous section. Use this name when saving the file
+for the first time (for example, deleteConfirm.cfm).</p>
+</li>
+<li class="stepexpand"><span>Insert an HTML form on the page (Insert&#160;&gt;
+Form&#160;&gt; Form).</span></li>
+<li class="stepexpand"><span>Add a hidden form field to the form.</span> <p>The hidden form field is required to store the record ID
+passed by the URL parameter. To add a hidden field, place the insertion
+point in the form and select Insert&#160;&gt; Form&#160;&gt;
+Hidden Field.</p>
+</li>
+<li class="stepexpand"><span>Add a button to the form.</span> <p>The user will click the button to confirm and delete the
+displayed record. To add a button, place the insertion point in
+the form and select Insert&#160;&gt; Form&#160;&gt; Button.</p>
+</li>
+<li class="stepexpand"><span>Enhance the design of the page any way you want and save
+it.</span></li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-788fa" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-788fa"></a><h3 class="topictitle3">Retrieve the record the user wants to delete</h3><div><ol><li class="stepexpand"><span>In the Bindings panel (Window&#160;&gt;
+Bindings), click the Plus (+) button and select Recordset (Query)
+from the pop‑up menu.</span> <p>The simple Recordset or DataSet dialog box appears. If
+the advanced Recordset dialog box appears instead, click Simple. </p>
+</li>
+<li class="stepexpand"><span>Name the recordset, and select a data source and the
+database table that contains the records that users can delete.</span></li>
+<li class="stepexpand"><span>In the Columns area, select the table columns (record
+fields) you want to display on the page.</span> <p>To display only some of the record’s fields, click Selected
+and choose the desired fields by Control‑clicking (Windows) or Command-clicking
+(Macintosh) them in the list.</p>
+<p>Make sure to include the record
+ID field even if you won't be displaying it.</p>
+</li>
+<li class="stepexpand"><span>Complete the Filter section as follows to find and display
+the record specified in the URL parameter passed by the results
+page:</span><ul><li><p>From the first pop‑up menu in the Filter
+area, select the column in the recordset containing values that
+match the value of the URL parameter passed by the page with the
+Delete links. For example, if the URL parameter contains a record
+ID number, select the column containing record ID numbers. In the example
+discussed in the previous section, the recordset column called CODE contains
+the values that match the value of the URL parameter passed by the page
+with the Delete links.</p>
+</li>
+<li><p>From the pop‑up menu beside the first menu, select
+the equal sign, if not already selected.</p>
+</li>
+<li><p>From the third pop‑up menu, select URL Parameter.
+The page with the Delete links uses a URL parameter to pass information
+to the delete page.</p>
+</li>
+<li><p>In the fourth box, enter the name of the URL parameter
+passed by the page with the Delete links. </p>
+<div class="fignone"><img alt="" id="ba_recordsetcompleted" src="images/ba_recordsetcompleted.png" /><div class="figdesc"></div><br /></div></li>
+</ul>
+</li>
+<li class="stepexpand"><span>Click OK.</span> <p>The recordset appears in the Bindings panel. </p>
+</li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-788ea" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-788ea"></a><h3 class="topictitle3">Display the record the user wants to delete</h3><div><ol><li class="stepexpand"><span>Select the recordset columns (record
+fields) in the Bindings panel, and drag them to the delete page.</span> <p>Make sure you insert this read-only dynamic content within
+the form boundaries. For more information on inserting dynamic content
+in a page, see <a href="WSc78c5058ca073340dcda9110b1f693f21-7983a.html">Make text dynamic</a>.</p>
+<p>Next, you must bind the record ID column
+to the hidden form field.</p>
+</li>
+<li class="stepexpand"><span>Make sure Invisible Elements are enabled (View&#160;&gt;
+Visual Aids&#160;&gt; Invisible Elements), and then click the
+yellow shield icon that represents the hidden form field.</span> <p>The hidden form field is selected.</p>
+</li>
+<li class="stepexpand"><span>In the Property inspector, click the lightning bolt icon
+beside the Value box.</span></li>
+<li class="stepexpand"><span>In the Dynamic Data dialog box, select the record ID
+column in the recordset.</span> <p>In the following example, the record ID column, CODE, contains
+unique store codes.</p>
+<div class="fignone"><img alt="" id="ba_del_dyndata" src="images/ba_del_dyndata.png" /><div class="figdesc">Record ID column selected</div><br /></div></li>
+<li class="stepexpand"><span>Click OK and save the page.</span> <div class="fignone"><a href="#" onclick="return showHideImage('ba_del_confirmdone', this);">View full size graphic</a><img alt="" id="ba_del_confirmdone" src="images/ba_del_confirmdone.png" /><div class="figdesc">Completed delete page</div><br /></div></li>
+</ol>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

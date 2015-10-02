@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Add a stored procedure (ColdFusion)</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-788ca.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-78cea.html" title="About stored procedures"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WS7E9E792B-6BB7-45be-B162-8C232F3DFEC0a.html" title="Run a stored procedure (ASP)"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-78d3a.html">Building applications visually</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-788ca.html"><b>Building pages with advanced data manipulation objects (ColdFusion, ASP)</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Add a stored procedure (ColdFusion)
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><div class="section"><p>You can use a stored
+procedure to modify a database. A stored procedure is a reusable
+database item that performs some operation on the database. </p>
+<p>Before you use a stored procedure to
+modify a database, make sure the stored procedure contains SQL that
+modifies the database in some way. To create and store one in your
+database, consult your database documentation and a good Transact-SQL
+manual.</p>
+</div>
+<ol><li class="stepexpand"><span>In Dreamweaver, open the
+page that will run the stored procedure.</span></li>
+<li class="stepexpand"><span>In the Bindings panel (Window&#160;&gt; Bindings),
+click the Plus (+) button, and then select Stored Procedure.</span></li>
+<li class="stepexpand"><span>In the Data Source pop‑up menu, select a connection to
+the database containing the stored procedure.</span></li>
+<li class="stepexpand"><span>Enter the ColdFusion Data Source user name and password.</span></li>
+<li class="stepexpand"><span>Select a stored procedure from the Procedures pop‑up
+menu.</span> <p>Dreamweaver automatically fills
+in any parameters.</p>
+</li>
+<li class="stepexpand"><span>Select a parameter, and click Edit if you have to make
+changes.</span> <p>The Edit Stored Procedure Variable dialog box appears.
+The name of the variable you are editing appears in the Name box. </p>
+<div class="note"><span class="notetitle">Note:  </span>You
+must enter test values for any stored procedure input parameters. </div>
+</li>
+<li class="stepexpand"><span>Make changes as necessary:</span><ul><li><p>Select a Direction from the pop‑up menu.
+A stored procedure might have input values, output values, or both
+input and output values.</p>
+</li>
+<li><p>Select a SQL type from the pop‑up menu. Enter a
+return variable, a run-time value, and a test value.</p>
+</li>
+</ul>
+</li>
+<li class="stepexpand"><span>If the stored procedure takes a parameter, click the
+Plus (+) button to add a page parameter. </span> <div class="note"><span class="notetitle">Note:  </span>You must enter corresponding page parameters for each
+stored procedure parameter return value. Do not add page parameters
+unless there is a corresponding return value.</div>
+<p>Click the
+Plus (+) button again to add another page parameter, if necessary.</p>
+</li>
+<li class="stepexpand"><span>Select a page parameter, and click the Minus (-) button
+to delete the parameter if necessary or click Edit to make changes
+to the parameter.</span></li>
+<li class="stepexpand"><span>Select the Returns Recordset Named option, and then enter
+a name for the recordset; if the stored procedure returns a recordset,
+click the Test button to see the recordset that the stored procedure
+returns.</span> <p>Dreamweaver runs the stored procedure
+and displays the recordset, if any.</p>
+<div class="note"><span class="notetitle">Note:  </span>If the stored procedure
+returns a recordset and takes parameters, you must enter a value
+in the Default Value column in the Variables box to test the stored procedure.</div>
+<div class="tip"><img src="images/tip_help.png" />You can use different test values to generate different
+recordsets. To change test values, click the Edit button for Parameter,
+and change the test value, or click the Edit button for Page Parameter
+and change the default value.</div></li>
+<li class="stepexpand"><span>Select the Returns Status Code Named option, enter a
+name for the status code, if the stored procedure returns a status
+code return value. Click OK.</span> <p>After you close the box, Dreamweaver inserts
+ColdFusion code in your page that calls a stored procedure in the
+database, when the code runs on the server. The stored procedure
+in turn performs a database operation, such as inserting a record.</p>
+<p>If
+the stored procedure takes parameters, you can create a page that
+gathers the parameter values and submits them to the page with the
+stored procedure. For example, you may create a page that uses URL
+parameters or an HTML form to gather parameter values from users.</p>
+</li>
+</ol>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WSc78c5058ca073340dcda9110b1f693f21-799ba.html">Define an advanced recordset by writing SQL</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

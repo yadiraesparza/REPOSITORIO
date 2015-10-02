@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Find broken, external, and orphaned links</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7c0ea.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7c0ea.html" title="Troubleshooting links"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7c09a.html" title="Fix broken links"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7c45a.html">Linking and navigation</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7c0ea.html"><b>Troubleshooting links</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Find broken, external, and orphaned links
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7c0ca"><h4 class="topictitle4">Check links in the current document</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7c0ba"><h4 class="topictitle4">Check links in part of a local site</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7c0aa"><h4 class="topictitle4">Check links across the entire site</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>Use
+the Check Links feature to search for broken links and <dfn class="term">orphaned</dfn> files
+(files that still exist in the site but that aren’t linked to by
+any other files in the site). You can search an open file, a portion
+of a local site, or an entire local site.</p>
+<p>Dreamweaver verifies links only to documents
+within the site; Dreamweaver compiles a list
+of external links in the selected document or documents but does
+not verify them.</p>
+<p>You can also identify and delete files that
+are no longer used by other files in your site.</p>
+</div>
+</div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7c0ca" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7c0ca"></a><h3 class="topictitle3">Check links in the current document</h3><div><ol><li class="stepexpand"><span>Save the file to a location within your
+local Dreamweaver site.</span></li>
+<li class="stepexpand"><span>Select File&#160;&gt; Check Page&#160;&gt; Links.</span> <p>The Broken Links report appears in the Link Checker panel
+(in the Results panel group).</p>
+</li>
+<li class="stepexpand"><span>In the Link Checker panel, select External Links from
+the Show pop‑up menu to view another report. </span> <p>The External Links report appears in the Link Checker panel
+(in the Results panel group).</p>
+<div class="tip"><img src="images/tip_help.png" />You can check
+for orphaned files when you check links across an entire site.</div></li>
+<li class="stepexpand"><span>To save the report, click the Save Report button in the
+Link Checker panel. The report is a temporary file; it will be lost
+if you don’t save it.</span></li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7c0ba" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7c0ba"></a><h3 class="topictitle3">Check links in part of a local site</h3><div><ol><li class="stepexpand"><span>In the Files panel, select a site from
+the Current Sites pop‑up menu.</span></li>
+<li class="stepexpand"><span>In Local view, select the files or folders to check.</span></li>
+<li class="stepexpand"><span>Initiate the check by doing one of the following:</span><ul><li><p>Right-click (Windows) or Control‑click
+(Macintosh) one of the selected files, and then select Check Links&#160;&gt;
+Selected Files/Folders from the context menu.</p>
+</li>
+<li><p>Select File&#160;&gt; Check Page&#160;&gt;
+Links.</p>
+<p>The Broken Links report appears in the Link Checker
+panel (in the Results panel group).</p>
+</li>
+</ul>
+</li>
+<li class="stepexpand"><span>In the Link Checker panel, select External Links from
+the Show pop‑up menu to view another report. </span> <p>The External Links report appears in the Link Checker panel
+(in the Results panel group).</p>
+<div class="tip"><img src="images/tip_help.png" />You can check
+for orphaned files when you check links across an entire site.</div></li>
+<li class="stepexpand"><span>To save a report, click the Save Report button in the
+Link Checker panel.</span></li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7c0aa" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7c0aa"></a><h3 class="topictitle3">Check links across the entire site</h3><div><ol><li class="stepexpand"><span>In the Files panel, select a site from
+the Current Sites pop‑up menu.</span></li>
+<li class="stepexpand"><span>Select
+Site&#160;&gt; Check Links Sitewide.</span> <p>The Broken Links report appears in the Link Checker panel
+(in the Results panel group).</p>
+</li>
+<li class="stepexpand"><span>In the Link Checker panel, select External Links or Orphaned
+Files from the Show pop‑up menu to view another report. </span> <p>A list of files that fit the report type you selected appears
+in the Link Checker panel.</p>
+<div class="note"><span class="notetitle">Note:  </span>If you select Orphaned Files
+as your report type, you can delete orphaned files from the Link
+Checker panel directly by selecting a file from the list and pressing
+the Delete key. </div>
+</li>
+<li class="stepexpand"><span>To save a report, click the Save Report button in the
+Link Checker panel.</span></li>
+</ol>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WSc78c5058ca073340dcda9110b1f693f21-7ea0a.html">Identify and delete unused files</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

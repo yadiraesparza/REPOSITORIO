@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Using XML and XSL with web pages</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7a61a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7a61a.html" title="About XML and XSLT"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7a5fa.html" title="Server-side XSL transformations"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7a62a.html">Displaying XML data with XSLT</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7a61a.html"><b>About XML and XSLT</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Using XML and XSL with web pages
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><p>Extensible Markup Language (XML)
+is a language that lets you structure information. Like HTML, XML
+lets you structure your information using tags, but XML tags are
+not predefined as HTML tags are. Instead, XML lets you create tags
+that best define your data structure (schema). Tags are nested within
+others to create a schema of parent and child tags. Like most HTML
+tags, all tags in an XML schema have an opening and closing tag.</p>
+<p>The following example shows the basic structure of an XML file:</p>
+<pre>&lt;?xml version=“1.0”&gt; 
+&lt;mybooks&gt; 
+    &lt;book bookid=“1”&gt; 
+        &lt;pubdate&gt;03/01/2004&lt;/pubdate&gt; 
+        &lt;title&gt;Displaying XML Data with Adobe Dreamweaver&lt;/title&gt; 
+        &lt;author&gt;Charles Brown&lt;/author&gt; 
+    &lt;/book&gt; 
+    &lt;book bookid=“2”&gt; 
+        &lt;pubdate&gt;04/08/2004&lt;/pubdate&gt; 
+        &lt;title&gt;Understanding XML&lt;/title&gt; 
+        &lt;author&gt;John Thompson&lt;/author&gt; 
+    &lt;/book&gt; 
+&lt;/mybooks&gt;</pre>
+<p>In this example, each parent <samp class="codeph">&lt;book&gt;</samp> tag
+contains three child tags: <samp class="codeph">&lt;pubdate&gt;</samp>, <samp class="codeph">&lt;title&gt;</samp>,
+and <samp class="codeph">&lt;author&gt;</samp>. But each <samp class="codeph">&lt;book&gt;</samp> tag
+is also a child tag of the <samp class="codeph">&lt;mybooks&gt;</samp> tag,
+which is one level higher in the schema. You can name and structure
+XML tags in any way, provided that you nest tags accordingly within others,
+and assign each opening tag a corresponding closing tag.</p>
+<p>XML documents
+do not contain any formatting—they are simply containers of structured
+information. Once you have an XML schema, you can use the Extensible
+Stylesheet Language (XSL) to display the information. In the way
+that Cascading Style Sheets (CSS) let you format HTML, XSL lets
+you format XML data. You can define styles, page elements, layout,
+and so forth in an XSL file and attach it to an XML file so that
+when a user views the XML data in a browser, the data is formatted
+according to whatever you’ve defined in the XSL file. The content
+(the XML data) and presentation (defined by the XSL file) are entirely
+separate, providing you with greater control over how your information
+appears on a web page. In essence, XSL is a presentation technology
+for XML, where the primary output is an HTML page.</p>
+<p>Extensible
+Stylesheet Language Transformations (XSLT) is a subset language
+of XSL that actually lets you display XML data on a web page, and
+“transform” it, along with XSL styles, into readable, styled information
+in the form of HTML. You can use Dreamweaver to
+create XSLT pages that let you perform XSL transformations using
+an application server or a browser. In a server-side XSL transformation,
+the server does the work of transforming the XML and XSL, and displaying
+it on the page. In a client-side transformation, a browser (such
+as Internet Explorer) does the work.</p>
+<p>The approach you ultimately take (server-side transformations
+versus client-side transformations) depends on what you are trying
+to achieve as an end result, the technologies available to you,
+the level of access you have to XML source files, and other factors.
+Both approaches have their own benefits and limitations. For example,
+server-side transformations work in all browsers while client-side
+transformations are restricted to modern browsers only (Internet
+Explorer 6, Netscape 8, Mozilla 1.8, and Firefox 1.0.2). Server-side
+transformations let you display XML data dynamically from your own
+server or from anywhere else on the web, while client-side transformations
+must use XML data that is locally hosted on your own web server.
+Finally, server-side transformations require that you deploy your pages
+to a configured application server, while client-side transformations
+only require access to a web server.</p>
+<p>For a tutorial about understanding XML, see <a href="http://www.adobe.com/go/vid0165" target="_blank">www.adobe.com/go/vid0165</a>.</p>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div>
+</div>
+                    <p><a href="http://www.adobe.com/go/vid0165" title="http://www.adobe.com/go/vid0165">XML tutorial (adobe.com)</a></p>
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

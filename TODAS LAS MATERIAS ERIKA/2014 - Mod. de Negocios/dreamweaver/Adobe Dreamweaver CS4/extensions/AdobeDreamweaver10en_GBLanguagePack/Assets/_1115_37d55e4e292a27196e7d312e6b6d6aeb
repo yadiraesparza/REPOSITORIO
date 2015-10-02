@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Set default document type and encoding</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WSc78c5058ca073340dcda9110b1f693f21-7f04a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WSc78c5058ca073340dcda9110b1f693f21-7d0ea.html" title="Save and revert documents"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WSc78c5058ca073340dcda9110b1f693f21-7ef7a.html" title="Set the default file extension of new HTML documents"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WSc78c5058ca073340dcda9110b1f693f21-7f05a.html">Creating and Managing Files</a> /
+     <a href="WSc78c5058ca073340dcda9110b1f693f21-7f04a.html"><b>Creating and opening documents</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Set default document type and encoding
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><div class="section"><p>You can define which document type
+is used as a default document for a site. </p>
+<p>For example, if
+most pages in your site are of a specific file type (such as Cold Fusion,
+HTML, or ASP documents), you can set document preferences that automatically
+create new documents of the specified file type.</p>
+</div>
+<ol><li class="stepexpand"><span>Select Edit&#160;&gt; Preferences (Windows)
+or Dreamweaver&#160;&gt; Preferences (Macintosh).</span> <div class="tip"><img src="images/tip_help.png" />You can also click the Preferences button
+in the New Document dialog box to set new document preferences when
+you create a new document.</div></li>
+<li class="stepexpand"><span>Click New Document from the category list on the left.</span></li>
+<li class="stepexpand"><span>Set or change preferences as necessary, and click OK
+to save them. </span> <dl><dt class="dlterm">Default Document </dt>
+<dd>Select a document type that will be used for pages that
+you create.</dd><p class="dlseparator"></p><dt class="dlterm">Default Extension </dt>
+<dd>Specify the file extension you prefer (.htm or .html)
+for new HTML pages you create.<div class="note"><span class="notetitle">Note:  </span>This option is disabled
+for other file types.</div>
+</dd><p class="dlseparator"></p><dt class="dlterm">Default Document Type (DDT) </dt>
+<dd>Select one of the XHTML document type definitions (DTD)
+to make new pages XHTML-compliant. For example, you can make an
+HTML document XHTML-compliant by selecting XHTML 1.0 Transitional or
+XHTML 1.0 Strict from the menu.</dd><p class="dlseparator"></p><dt class="dlterm">Default Encoding</dt>
+<dd>Specify the encoding to be used when a new page is created, as
+well as when a document is opened that does not specify any encoding.<p>If you select Unicode (UTF‑8) as the document
+encoding, entity encoding is not necessary because UTF‑8 can safely
+represent all characters. If you select another document encoding,
+entity encoding may be necessary to represent certain characters.
+For more information on character entities, see <a href="http://www.w3.org/TR/REC-html40/sgml/entities.html" target="_blank">www.w3.org/TR/REC-html40/sgml/entities.html</a>.</p>
+<p>If
+you select Unicode (UTF‑8) as a default encoding, you can include
+a Byte Order Mark (BOM) in the document by selecting the Include
+Unicode Signature (BOM) option. </p>
+<p>A BOM is 2-4 bytes at the
+beginning of a text file that identifies a file as Unicode, as well
+as the byte order of the following bytes. Because UTF‑8 has no byte
+order, adding a UTF‑8 BOM is optional. For UTF‑16 and UTF‑32, it
+is required. </p>
+</dd><p class="dlseparator"></p><dt class="dlterm">Unicode Normalization Form</dt>
+<dd>Select one of these options if you select Unicode (UTF-8)
+as a default encoding.<p>There
+are four Unicode Normalization Forms. The most important is Normalization
+Form C because it's the most common one used in the Character Model for
+the World Wide Web. Adobe provides the other three Unicode Normalization Forms
+for completeness.</p>
+</dd><p class="dlseparator"></p><dt class="dlterm">Show New Document Dialog Box on Control+N</dt>
+<dd>Deselect this option (“on Command+N” for Macintosh) to
+automatically create a document of the default document type when
+you use the key command. </dd><p class="dlseparator"></p></dl>
+ <p>In Unicode, there are characters that are visually similar
+but can be stored within the document in different ways. For example,
+“ë” (e‑umlaut) can be represented as a single character, “e‑umlaut,”
+or as two characters, “regular Latin e” + “combining umlaut.” A
+Unicode combining character is one that gets used with the previous
+character, so the umlaut would appear above the “Latin e.” Both forms
+result in the same visual typography, but what is saved in the file
+is different for each form.</p>
+<p>Normalization is the process of
+making sure all characters that can be saved in different forms
+are all saved using the same form. That is, all “ë” characters in
+a document are saved as single “e‑umlaut” or as “e” + “combining
+umlaut,” and not as both forms in one document.</p>
+<p>For more information
+on Unicode Normalization and the specific forms that can be used,
+see the Unicode website at <a href="http://www.unicode.org/reports/tr15" target="_blank">www.unicode.org/reports/tr15</a>.</p>
+</li>
+</ol>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WSc78c5058ca073340dcda9110b1f693f21-7beda.html">XHTML code</a></p><p>&#160;<a href="WSc78c5058ca073340dcda9110b1f693f21-7d10a.html">Understanding document encoding</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Navigate Dreamweaver using the keyboard</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7772a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7770a.html" title="Support for operating system accessibility features"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WSA2B0AC51-4CD7-465f-B51E-F463FED0939Ca.html" title="Designing pages for accessibility"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7776a.html">Accessibility</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7772a.html"><b>Dreamweaver accessibility features</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Navigate Dreamweaver using the keyboard
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-776ea"><h4 class="topictitle4">Navigate panels</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-776da"><h4 class="topictitle4">Navigate the Property inspector</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-776ca"><h4 class="topictitle4">Navigate a dialog box</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-776ba"><h4 class="topictitle4">Navigate frames</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-776aa"><h4 class="topictitle4">Select a frame</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7769a"><h4 class="topictitle4">Navigate a table</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>You can use the keyboard to navigate
+panels, inspectors, dialog boxes, frames, and tables without a mouse. </p>
+<div class="note"><span class="notetitle">Note:  </span>Tabbing
+and the use of arrow keys are supported for Windows only.</div>
+</div>
+</div>
+<div id="WScbb6b82af5544594822510a94ae8d65-776ea" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-776ea"></a><h3 class="topictitle3">Navigate panels</h3><div><ol><li class="stepexpand"><span>In the Document window, press Control+F6
+to shift focus to a panel. </span> <p>A dotted line around the panel title indicates that focus
+is on that panel. The screen reader reads the panel title bar that
+has focus.</p>
+</li>
+<li class="stepexpand"><span>Press Control+F6 again to shift focus until you have
+focus on the panel you want to work in. (Press Control+Shift+F6
+to shift focus to the previous panel.)</span></li>
+<li class="stepexpand"><span>If the panel you want to work in is not open, use the
+keyboard shortcuts in the Windows menu to display the appropriate
+panel; then press Control+F6. </span> <p>If the panel you want to work in is open, but not expanded,
+place focus on the panel title bar, and then press the Spacebar.
+Press the Spacebar again to collapse the panel. </p>
+</li>
+<li class="stepexpand"><span>Press the Tab key to move through the options in the
+panel.</span></li>
+<li class="stepexpand"><span>Use the arrow keys as appropriate:</span><ul><li><p>If an option has choices, use the arrow
+keys to scroll through the choices, and then press the Spacebar
+to make a selection.</p>
+</li>
+<li><p>If there are tabs in the panel group to open other
+panels, place focus on the open tab, and then use the left or right
+arrow key to open another tabs. Once you open a new tab, press the
+Tab key to move through the options in that panel.</p>
+</li>
+</ul>
+</li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-776da" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-776da"></a><h3 class="topictitle3">Navigate the Property inspector</h3><div><ol><li class="stepexpand"><span>Press Control+F3 to display the Property
+inspector, if it is not visible. </span></li>
+<li class="stepexpand"><span>Press Control+F6 (Windows only) until you shift focus
+to the Property inspector.</span></li>
+<li class="stepexpand"><span>Press the Tab key to move through the Property inspector
+options. </span></li>
+<li class="stepexpand"><span>Use the arrow keys as appropriate to move through option
+choices.</span></li>
+<li class="stepexpand"><span>Press Control+Down arrow/Up arrow (Windows) or Command
+Down arrow/Up arrow (Macintosh) to open and close the expanded section
+of the Property inspector, as necessary, or, with focus on the expander
+arrow in the lower-right corner, press the Spacebar.</span> <div class="para"><div class="note"><span class="notetitle">Note:  </span>Keyboard focus must be inside the Property inspector
+(and not on the panel title) for expanding and collapsing to work.</div>
+</div>
+</li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-776ca" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-776ca"></a><h3 class="topictitle3">Navigate a dialog box</h3><div><ol><li><span>Press the Tab key to move through the
+options in a dialog box.</span></li>
+<li><span>Use the arrow keys to move through choices for an option.</span></li>
+<li><span>If the dialog box has a Category list, press Control+Tab
+(Windows) to shift focus to the category list, and then use the
+arrow keys to move up or down the list.</span></li>
+<li><span>Press Control+Tab again to shift to the options for a
+category.</span></li>
+<li><span>Press Enter to exit the dialog box.</span></li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-776ba" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-776ba"></a><h3 class="topictitle3">Navigate frames</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;If your document contains frames, you
+can use the arrow keys to shift focus to a frame.</span></div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-776aa" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-776aa"></a><h3 class="topictitle3">Select a frame</h3><div><ol><li><span>Press Alt+Down Arrow to place the insertion
+point in the Document window.</span></li>
+<li><span>Press Alt+Up Arrow to select the frame that currently
+has focus. </span></li>
+<li><span>Continue pressing Alt+Up Arrow to shift focus to the
+frameset, and then to the parent framesets, if there are nested
+framesets.</span></li>
+<li><span>Press Alt+Down Arrow to shift focus to a child frameset
+or a single frame within the frameset.</span></li>
+<li><span>With focus on a single frame, press Alt+Left or Right
+Arrow to move between frames.</span></li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7769a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7769a"></a><h3 class="topictitle3">Navigate a table</h3><div><ol><li class="stepexpand"><span>Use the arrow keys or press Tab to move
+to other cells in a table as necessary. </span> <div class="tip"><img src="images/tip_help.png" />Pressing Tab in a right-most cell adds
+another row to the table.</div></li>
+<li class="stepexpand"><span>To select a cell, press Control+A (Windows only) while
+the insertion point is in the cell.</span></li>
+<li class="stepexpand"><span>To select the entire table, press Control+A twice if
+the insertion point is in a cell, or once if a cell is selected.</span></li>
+<li class="stepexpand"><span>To exit the table, press Control+A three times if the
+insertion point is in a cell, twice if the cell is selected, or
+once if the table is selected, and then press the Up, Left, or Right
+Arrow key.</span></li>
+</ol>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

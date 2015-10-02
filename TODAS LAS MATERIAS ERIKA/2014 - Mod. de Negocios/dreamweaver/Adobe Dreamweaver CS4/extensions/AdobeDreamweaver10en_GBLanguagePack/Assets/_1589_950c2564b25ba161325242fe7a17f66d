@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * About cascading styles</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7e31a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7e2fa.html" title="About CSS rules"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7e28a.html" title="About text formatting and CSS"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7e32a.html">Creating pages with CSS</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7e31a.html"><b>Understanding Cascading Style Sheets</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    About cascading styles
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><p>The term <dfn class="term">cascading</dfn> refers to the way a
+browser ultimately displays styles for specific elements on a web
+page. Three different sources are responsible for the styles you
+see on a web page: the style sheet created by the author of the
+page, the user’s customized style selections (if any), and the default
+styles of the browser itself. The previous topics describe creating
+styles for a web page as the author of both the web page and the
+style sheet attached to that page. But browsers also have their
+own default style sheets that dictate the rendering of web pages,
+and in addition to that, users can customize their browsers by making selections
+that adjust the display of web pages. The final appearance of a
+web page is the result of the rules of all three of these sources
+coming together (or “cascading”) to render the web page in an optimal
+way.</p>
+<p>A common tag—the paragraph tag, or <samp class="codeph">&lt;p&gt;</samp> tag—illustrates
+the concept. By default, browsers come with style sheets that define
+the font and font size for paragraph text (that is, text that falls
+between <samp class="codeph">&lt;p&gt;</samp> tags in the HTML code). In Internet
+Explorer, for example, all body text, including paragraph text,
+displays in Times New Roman, Medium font by default.</p>
+<p>As the author of a web page, however, you can create a style
+sheet that overrides the browser’s default style for paragraph font
+and font size. For example, you can create the following rule in
+your style sheet:</p>
+<pre>p { 
+font-family: Arial; 
+font-size: small; 
+}</pre>
+<p>When a user loads the page, the paragraph font and font size
+settings set by you as the author override the default paragraph
+text settings of the browser.</p>
+<p>Users can make selections to customize the browser display in
+an optimal way for their own use. In Internet Explorer, for example,
+the user can select View&#160;&gt; Text Size&#160;&gt; Largest
+to expand the page font to a more readable size if they think the font
+is too small. Ultimately (at least in this case), the user’s selection
+overrides both the default browser styles for paragraph font size
+and the paragraph styles created by the author of the web page.</p>
+<p>Inheritance is another important part of the cascade. Properties
+for most elements on a web page are inherited—for example, paragraph
+tags inherit certain properties from body tags, bullet list tags
+inherit certain properties from paragraph tags, and so on. Thus,
+if you create the following rule in your style sheet:</p>
+<pre>body { 
+font-family: Arial; 
+font-style: italic; 
+}</pre>
+<p>All paragraph text on your web page (as well as text that inherits
+properties from the paragraph tag) will be Arial and italic because
+the paragraph tag inherits these properties from the body tag. You
+can, however, become more specific with your rules, and create styles
+that override the standard formula for inheritence. For example,
+if you create the following rules in your style sheet:</p>
+<pre>body { 
+font-family: Arial; 
+font-style: italic; 
+} 
+p { 
+font-family: Courier; 
+font-style: normal; 
+}</pre>
+<p>All body text will be Arial and italic <dfn class="term">except</dfn> paragraph
+(and its inherited) text, which will display as Courier normal (non-italic).
+Technically, the paragraph tag first inherits the properties that
+are set for the body tag, but then ignores those properties because
+it has properties of its own defined. In other words, while page
+elements generally inherit properties from above, the direct application
+of a property to a tag always causes an override of the standard
+formula for inheritance.</p>
+<p>The combination of all of the factors discussed above, plus other
+factors like CSS specificity (a system that gives different weight
+to particular kinds of CSS rules), and the order of CSS rules, ultimately
+create a complex cascade where items with higher priorities override
+properties that have lower priorities. For more information on the
+rules governing the cascade, inheritance, and specificity, visit <a href="http://www.w3.org/TR/CSS2/cascade.html" target="_blank">www.w3.org/TR/CSS2/cascade.html</a>.</p>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

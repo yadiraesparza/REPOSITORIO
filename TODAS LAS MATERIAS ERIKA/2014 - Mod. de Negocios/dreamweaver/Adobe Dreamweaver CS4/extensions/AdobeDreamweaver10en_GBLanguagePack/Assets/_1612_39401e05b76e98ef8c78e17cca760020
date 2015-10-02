@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Set up and edit a local root folder</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7f62a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7f09a.html" title="Using the Manage Sites dialog box"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WSBE25912D-A9DE-4ba1-9F85-4C692F5C14ADa.html" title="Set up a remote folder"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7f63a.html">Working with Dreamweaver sites</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7f62a.html"><b>Setting up a Dreamweaver site</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Set up and edit a local root folder
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WS393C7074-F74F-47a5-8973-7D9BCD18F24Ba"><h4 class="topictitle4">Local root folder setup options</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>After you plan your
+site structure, you set up (define) a site in Dreamweaver. You should also define a site
+in order to edit a website that wasn’t created in Dreamweaver. Setting up a Dreamweaver site is a way to organize all
+of the documents associated with a website. </p>
+<p>The local root
+folder is your working directory for your Dreamweaver site. This folder
+can be on your local computer or on a network server.</p>
+<p>If you
+want to start editing files on your computer (without publishing
+them), set up only a local folder, and then add remote and testing
+information later.</p>
+<p>You
+can use Dreamweaver to edit an existing website
+on your local disk or to edit a remote site (or a branch of a remote
+site), even if you didn’t use Dreamweaver to
+create the original site.</p>
+<div class="para"><div class="note"><span class="notetitle">Note:  </span>You don’t need to specify a remote folder
+if your local root folder is on the system running your web server.
+This implies the web server is running on your local computer. </div>
+</div>
+</div>
+<ol><li class="stepexpand"><span>Select one of the following: </span><ul><li><p>To set up a new site, Select Site&#160;&gt;
+New Site.</p>
+</li>
+<li><p>To edit the setup of an existing site on your local
+disk or a remote site (or a branch of a remote site), whether it
+was created in Dreamweaver or not, select
+Site&#160;&gt; Manage Sites and click Edit.</p>
+</li>
+</ul>
+ <div class="note"><span class="notetitle">Note:  </span>If you haven’t defined any Dreamweaver sites,
+the Site Definition dialog box appears and you don’t need to click
+New.</div>
+</li>
+<li class="stepexpand"><span>Enter the setup information:</span><ul><li><p>To set up a site using the site setup wizard,
+click the Basic tab and follow the prompts.</p>
+</li>
+<li><p>To set up local, remote, and testing folders (for
+processing dynamic pages) directly, click the Advanced tab, select
+the Local Info category and set the options. </p>
+</li>
+</ul>
+</li>
+<li class="stepexpand"><span>Click OK and Done to create the site (displayed in the
+Files panel). </span></li>
+</ol>
+</div>
+<div id="WS393C7074-F74F-47a5-8973-7D9BCD18F24Ba" class="nochunk"><a name="WS393C7074-F74F-47a5-8973-7D9BCD18F24Ba"></a><h3 class="topictitle3">Local root folder setup options</h3><div><div class="section"><p>If you choose to set the local root folder
+options directly instead of by using the Basic tab of the Site Definition
+dialog box, click the Advanced tab and enter the information.</p>
+<div class="note"><span class="notetitle">Note:  </span>Only
+the first two options are required to set up a working site on your computer.</div>
+<dl><dt class="dlterm">Site Name</dt>
+<dd>The name that appears in the Files panel and in the Manage
+Sites dialog box; it does not appear in the browser.</dd><p class="dlseparator"></p><dt class="dlterm">Local Root Folder</dt>
+<dd>The name of the folder on your local disk where you store
+site files, templates, and library items. Create a folder on your
+hard disk or click the folder icon to browse to the folder. When Dreamweaver resolves root-relative links,
+it does so relative to this folder.</dd><p class="dlseparator"></p><dt class="dlterm">Default Images Folder</dt>
+<dd>The path to the folder where the images you use in your site
+are kept. Enter the path or click the folder icon to browse to the
+folder.</dd><p class="dlseparator"></p><dt class="dlterm">Links Relative To</dt>
+<dd>Changes the relative path of the links you create to other pages
+in the site. By default, Dreamweaver creates
+links using document-relative paths. Select the Site Root option
+to change the path setting and make sure that you specify the HTTP
+address in the HTTP Address option.<p>Changing this setting
+does not convert the path of existing links; the setting will only
+apply to new links you create visually with Dreamweaver.</p>
+<p>Content
+linked with a site root-relative path does not appear when you preview documents
+in a local browser unless you specify a testing server, or select
+the Preview Using Temporary File option in Edit&#160;&gt; Preferences&#160;&gt;
+Preview In Browser. This is because browsers don’t recognize site
+roots—servers do.</p>
+</dd><p class="dlseparator"></p><dt class="dlterm">HTTP Address</dt>
+<dd>The URL that your website will use. This enables Dreamweaver to verify links within the site
+that use absolute URLs or site root-relative paths. Dreamweaver also uses this address to make
+sure site root-relative links work on the remote server, which may
+have a different site root. For example, if you are linking to an
+image file located on your hard disk in the C:\Sales\images\ folder
+(where Sales is your local root folder), and the URL of your completed
+site is http://www.mysite.com/SalesApp/ (where SalesApp is your remote
+root folder), you should enter the URL in the HTTP Address text
+box to ensure that the path to the linked file on the remote server
+is /SalesApp/images/.</dd><p class="dlseparator"></p><dt class="dlterm">Use Case-sensitive Link Checking</dt>
+<dd>Checks that the case of the links matches the
+case of the filenames when Dreamweaver checks
+links. This option is useful on UNIX systems where filenames are
+case-sensitive.</dd><p class="dlseparator"></p><dt class="dlterm">Enable Cache</dt>
+<dd>Indicates whether to create a local cache to improve the
+speed of link and site management tasks. If you do not select this
+option, Dreamweaver asks you if you want
+to create a cache again before it creates the site. It is a good
+idea to select this option because the Assets panel (in the Files
+panel group) only works if a cache is created.</dd><p class="dlseparator"></p></dl>
+</div>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WSc78c5058ca073340dcda9110b1f693f21-7eeda.html">Access sites, a server, and local drives</a></p><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7f3ba.html">Import and export site settings</a></p><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7c35a.html">Set the relative path of new links</a></p><p>&#160;<a href="WSc78c5058ca073340dcda9110b1f693f21-7ed0a.html">Managing files and folders</a></p><p>&#160;<a href="WSc78c5058ca073340dcda9110b1f693f21-7a30.html">Set up your computer for application development</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

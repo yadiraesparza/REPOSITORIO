@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Use the Insert panel</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WSc78c5058ca073340dcda9110b1f693f21-7d16a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WSc78c5058ca073340dcda9110b1f693f21-7d16a.html" title="Working with pages"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WSc78c5058ca073340dcda9110b1f693f21-7d09a.html" title="Set page properties"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WSc78c5058ca073340dcda9110b1f693f21-7d17a.html">Adding content to pages</a> /
+     <a href="WSc78c5058ca073340dcda9110b1f693f21-7d16a.html"><b>Working with pages</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Use the Insert panel
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7fa5a"><h4 class="topictitle4">Hide or show the Insert panel</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7fa4a"><h4 class="topictitle4">Show the buttons in a particular category</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7fa3a"><h4 class="topictitle4">Display the pop-up menu for a button</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7fa0a"><h4 class="topictitle4">Insert an object</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7f9fa"><h4 class="topictitle4">Bypass the object-insertion dialog box and insert an empty placeholder object</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7f9ea"><h4 class="topictitle4">Modify preferences for the Insert panel</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7f9da"><h4 class="topictitle4">Add, delete, or manage items in the Favorites category of the Insert panel</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7f9ca"><h4 class="topictitle4">Insert objects using buttons in the Favorites category</h4>
+</a></p></li><li><p><a href="#WS2C6BE928-10FF-4a21-85B9-3999782908F4"><h4 class="topictitle4">Display the Insert panel as a horizontal Insert bar</h4>
+</a></p></li><li><p><a href="#WS39180D6E-7000-4026-BC10-9B02C193A719"><h4 class="topictitle4">Return the horizontal Insert bar to a panel group</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7fa2a"><h4 class="topictitle4">Show horizontal Insert bar categories as tabs</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7fa1a"><h4 class="topictitle4">Show horizontal Insert bar categories as a menu</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>The
+Insert panel contains buttons for creating and inserting objects
+such as tables and images. The buttons are organized into categories. </p>
+</div>
+</div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7fa5a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7fa5a"></a><h3 class="topictitle3">Hide or show the Insert panel</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Select Window&#160;&gt; Insert.</span> <div class="para"><div class="note"><span class="notetitle">Note:  </span>If you are working with certain types of files,
+such as XML, JavaScript, Java, and CSS, the Insert panel and the
+Design view option are dimmed because you cannot insert items into
+these code files.</div>
+</div>
+</div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7fa4a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7fa4a"></a><h3 class="topictitle3">Show the buttons in a particular category</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Select the category name from the Category
+pop-up menu. For example, to show buttons for the Layout category,
+select Layout.</span></div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7fa3a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7fa3a"></a><h3 class="topictitle3">Display the pop-up menu for a button</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Click the down arrow beside the button’s
+icon.</span> <div class="fignone"><img alt="" id="ac_insert_bar_pop_up" src="images/ac_insert_bar_pop_up.png" /><div class="figdesc"></div><br /></div></div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7fa0a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7fa0a"></a><h3 class="topictitle3">Insert an object</h3><div><ol><li><span>Select the appropriate category from
+the Category pop-up menu of the Insert panel.</span></li>
+<li><span>Do one of the following:</span><ul><li><p>Click an object button or drag the button’s
+icon into the Document window.</p>
+</li>
+<li><p>Click the arrow on a button, then select an option
+from the menu.</p>
+<p>Depending on the object, a corresponding object-insertion
+dialog box may appear, prompting you to browse to a file or specify
+parameters for an object. Or, Dreamweaver may
+insert code into the document, or open a tag editor or a panel for
+you to specify information before the code is inserted. </p>
+<p>For
+some objects, no dialog box appears if you insert the object in
+Design view, but a tag editor appears if you insert the object in
+Code view. For a few objects, inserting the object in Design view
+causes Dreamweaver to switch to Code view
+before inserting the object. </p>
+<div class="note"><span class="notetitle">Note:  </span>Some objects, such as named
+anchors, are not visible when the page is viewed in a browser window.
+You can display icons in Design view that mark the locations of such
+invisible objects.</div>
+</li>
+</ul>
+</li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7f9fa" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7f9fa"></a><h3 class="topictitle3">Bypass the object-insertion dialog box and insert an empty placeholder object</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Control-click (Windows) or Option-click
+(Macintosh) the button for the object.</span> <p>For example, to insert a placeholder for an image without
+specifying an image file, Control-click or Option-click the Image
+button.</p>
+<div class="note"><span class="notetitle">Note:  </span>This procedure does not bypass all object-insertion
+dialog boxes. Many objects, including&#160;navigation bars,
+AP elements, and framesets, do not insert placeholders or default‑valued&#160;objects.</div>
+</div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7f9ea" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7f9ea"></a><h3 class="topictitle3">Modify preferences for the Insert panel</h3><div><ol><li class="stepexpand"><span>Select Edit&#160;&gt; Preferences
+(Windows) or Dreamweaver&#160;&gt; Preferences (Macintosh).</span></li>
+<li class="stepexpand"><span>In the General category of the Preferences dialog box,
+deselect Show Dialog When Inserting Objects to suppress dialog boxes
+when you insert objects such as images, tables, scripts, and head
+elements or by holding down the Control key (Windows) or the Option
+key (Macintosh) while creating the object. </span> <div class="tip"><img src="images/tip_help.png" />When you insert an object with this option
+off, the object is given default attribute values. Use the Property
+inspector to change object properties after inserting the object.</div></li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7f9da" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7f9da"></a><h3 class="topictitle3">Add, delete, or manage items in the Favorites category of the Insert panel</h3><div><ol><li><span>Select any category in the Insert panel.</span></li>
+<li><span>Right-click (Windows) or Control-click (Macintosh) in
+the area where the buttons appear, and then select Customize Favorites.</span></li>
+<li><span>In the Cutomize Favorite Objects dialog box, make changes
+as necessary, and click OK.</span><ul><li><p>To add an object, select an object in the
+Available Objects pane on the left, and then click the arrow between
+the two panes or double-click the object in the Available Objects
+pane.</p>
+<div class="para"><div class="note"><span class="notetitle">Note:  </span>You can add one object at a time. You cannot select
+a category name, such as Common, to add an entire category to your
+favorites list.</div>
+</div>
+</li>
+<li><p>To delete an object or separator, select an object
+in the Favorite Objects pane on the right, and then click the Remove
+Selected Object in Favorite Objects List button above the pane.</p>
+</li>
+<li><p>To move an object, select an object in the Favorite
+Objects pane on the right, and then click the Up or Down arrow button
+above the pane.</p>
+</li>
+<li><p>To add a separator below an object, select an object
+in the Favorite Objects pane on the right, and then click the Add
+Separator button below the pane.</p>
+</li>
+</ul>
+</li>
+<li><span>If you’re not in the Favorites category of the Insert
+panel, select that category to see your changes.</span></li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7f9ca" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7f9ca"></a><h3 class="topictitle3">Insert objects using buttons in the Favorites category</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Select the Favorites category from the
+Category pop-up menu of the Insert panel, and then click the button
+for any Favorites object that you added. </span></div>
+</div></div>
+<div id="WS2C6BE928-10FF-4a21-85B9-3999782908F4" class="nochunk"><a name="WS2C6BE928-10FF-4a21-85B9-3999782908F4"></a><h3 class="topictitle3">Display the Insert panel as a horizontal Insert bar</h3><div><div class="section"><p>Unlike other panels in Dreamweaver, you can
+drag the Insert panel out of its default dock position and drop
+it into a horizontal position at the top of the Document window.
+When you do so, it changes from a panel to a toolbar (though you
+cannot hide and display it in the same way as other toolbars).</p>
+</div>
+<ol><li class="stepexpand"><span>Click the Insert panel’s tab and drag it to the
+top of the Document window.</span> <p><div class="fignone"><img alt="" id="ac_insert_pnl_H" src="images/ac_insert_pnl_H.png" /><div class="figdesc"></div><br /></div></p>
+</li>
+<li class="stepexpand"><span>When you see a horizontal blue line across the top of
+the Document window, drop the Insert panel into position.</span></li>
+</ol>
+<div class="section"><div class="note"><span class="notetitle">Note:  </span>The horizontal Insert bar is also a default part of
+the Classic workspace. To switch to the Classic workspace, select
+Classic from the workspace switcher in the Application bar.</div>
+</div>
+</div></div>
+<div id="WS39180D6E-7000-4026-BC10-9B02C193A719" class="nochunk"><a name="WS39180D6E-7000-4026-BC10-9B02C193A719"></a><h3 class="topictitle3">Return the horizontal Insert bar to a panel group</h3><div><ol><li><span>Click the horizontal Insert bar’s gripper
+(on the left side of the Insert bar) and drag the bar to the place
+where your panels are docked.</span></li>
+<li><span>Position the Insert panel and drop it. A blue line indicates
+where you can drop the panel.</span></li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7fa2a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7fa2a"></a><h3 class="topictitle3">Show horizontal Insert bar categories as tabs</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Click the arrow beside the category
+name on the left end of the horizontal Insert bar, and then select
+Show as&#160;Tabs.</span></div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7fa1a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7fa1a"></a><h3 class="topictitle3">Show horizontal Insert bar categories as a menu</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Right-click (Windows) or Control-click
+(Macintosh) a category tab in the horizontal Insert bar, and then
+select Show as&#160;Menus.</span></div>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7fbea.html">Insert panel overview</a></p><p>&#160;<a href="WSc78c5058ca073340dcda9110b1f693f21-7bc7a.html">Edit tags with Tag editors</a></p><p>&#160;<a href="WSc78c5058ca073340dcda9110b1f693f21-7d03a.html">Select and view elements in the Document window</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * View and set frameset properties</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7d4ea.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7d35a.html" title="View and set frame properties and attributes"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7d2da.html" title="Control frame content with links"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7dbfa.html">Laying out pages with HTML</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7d4ea.html"><b>Using Frames</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    View and set frameset properties
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7d2ea"><h4 class="topictitle4">Set a title for a frameset document</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7d2fa"><h4 class="topictitle4">View or set frameset properties</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>Use
+the Property inspector to view and set most frameset properties,
+including the frameset title, borders, and frame sizes.</p>
+</div>
+</div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7d2ea" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7d2ea"></a><h3 class="topictitle3">Set a title for a frameset document</h3><div><ol><li class="stepexpand"><span>Select a frameset by doing one of the
+following:</span><ul><li><p>Click a border between two frames in the
+frameset in the Document window’s Design view.</p>
+</li>
+<li><p>Click the border that surrounds a frameset in the
+Frames panel (Window&#160;&gt; Frames). </p>
+</li>
+</ul>
+</li>
+<li class="stepexpand"><span>In the Title box of the Document toolbar, type a name
+for the frameset document.</span> <div class="fignone"><a href="#" onclick="return showHideImage('lo_frameset_title', this);">View full size graphic</a><img alt="" id="lo_frameset_title" src="images/lo_frameset_title.png" /><div class="figdesc"></div><br /></div><p>When
+a visitor views the frameset in a browser, the title appears in
+the browser’s title bar.</p>
+</li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7d2fa" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7d2fa"></a><h3 class="topictitle3">View or set frameset properties</h3><div><ol><li class="stepexpand"><span>Select a frameset by doing one of the
+following:</span><ul><li><p>Click a border between two frames in the
+frameset in the Document window’s Design view.</p>
+</li>
+<li><p>Click the border that surrounds a frameset in the
+Frames panel (Window&#160;&gt; Frames). </p>
+</li>
+</ul>
+</li>
+<li class="stepexpand"><span>In the Property inspector (Window&#160;&gt; Properties),
+click the expander arrow in the lower-right corner and set the frameset
+options. </span> <dl><dt class="dlterm">Borders</dt>
+<dd>Determines whether borders should appear around frames
+when the document is viewed in a browser. To display borders, select
+Yes; to prevent the browser from displaying borders, select No.
+To allow the browser to determine how borders are displayed, select
+Default.</dd><p class="dlseparator"></p><dt class="dlterm">Border Width</dt>
+<dd>Specifies a width for all the borders in the frameset.</dd><p class="dlseparator"></p><dt class="dlterm">Border Color</dt>
+<dd>Sets a color for the borders. Use the color picker to
+select a color, or type the hexadecimal value for a color.</dd><p class="dlseparator"></p><dt class="dlterm">RowCol Selection</dt>
+<dd>Sets frame sizes for rows and columns of the selected frameset,
+click a tab on the left side or top of the RowCol Selection area;
+then enter a height or width in the Value text box.<div class="fignone"><img alt="" id="lo_propinsp_detail" src="images/lo_propinsp_detail.png" /><div class="figdesc"></div><br /></div></dd><p class="dlseparator"></p></dl>
+</li>
+<li class="stepexpand"><span>To specify how much space the browser allocates to each
+frame, select from the following choices in the Units menu:</span> <dl><dt class="dlterm">Pixels</dt>
+<dd>Sets the size of the selected column or row to an absolute
+value. Choose this option for a frame that should always be the
+same size, such as a navigation bar. Frames with sizes specified
+in pixels are allocated space before frames with sizes specified
+as percent or relative. The most common approach to frame sizes is
+to set a left-side frame to a fixed pixel width and to set a right-size
+frame to relative, which enables the right frame to stretch to take
+up all the remaining space after the pixel width is allocated.<div class="note"><span class="notetitle">Note:  </span>If
+all of your widths are specified in pixels, and a visitor views
+the frameset in a browser that’s too wide or too narrow for the
+width you specified, then the frames stretch or shrink proportionately
+to fill the available space. The same applies to heights specified
+in pixels. Thus, it’s generally a good idea to specify at least
+one width and height as relative.</div>
+</dd><p class="dlseparator"></p><dt class="dlterm">Percent</dt>
+<dd>Specifies that the selected column or row should be a
+percentage of the total width or height of its frameset. Frames
+with units set to Percent are allocated space after frames with
+units set to Pixels, but before frames with units set to Relative.</dd><p class="dlseparator"></p><dt class="dlterm">Relative</dt>
+<dd>Specifies that the selected column or row be allocated
+the rest of the available space after Pixels and Percent frames
+have had space allocated; that remaining space is divided proportionally
+among the frames with sizes set to Relative.<div class="note"><span class="notetitle">Note:  </span>When you select
+Relative from the Units menu, any number you’ve entered in the Value
+field disappears; if you want to specify a number, you must re‑enter
+it. If there’s only one row or column set to Relative, though, there’s
+no need to enter a number, since that row or column receives all
+the remaining space after the other rows and columns have space
+allocated. To be certain of full cross-browser compatibility, you
+can enter 1 in the Value field; that’s equivalent to entering no
+value.</div>
+</dd><p class="dlseparator"></p></dl>
+</li>
+</ol>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

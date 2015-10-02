@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Set General preferences for Dreamweaver</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7f82a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7f72a.html" title="About customizing Dreamweaver in multiuser systems"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7f70a.html" title="Set Fonts preferences for documents in Dreamweaver"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7fc8a.html">Workspace</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7f82a.html"><b>Customizing the CS4 workspace</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Set General preferences for Dreamweaver
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><ol><li class="stepexpand"><span>Select
+Edit&#160;&gt; Preferences (Windows) or Dreamweaver&#160;&gt;
+Preferences (Macintosh).</span></li>
+<li class="stepexpand"><span>Set any of the following options: </span> <dl><dt class="dlterm">Open Documents In Tabs</dt>
+<dd>Opens all documents in a single window with tabs that
+let you switch between documents (Macintosh only).</dd><p class="dlseparator"></p><dt class="dlterm">Show Welcome Screen</dt>
+<dd>Displays the Dreamweaver Welcome
+screen when you start Dreamweaver or when
+you don’t have any documents open.</dd><p class="dlseparator"></p><dt class="dlterm">Reopen Documents on Startup</dt>
+<dd>Opens
+any documents that were open when you closed Dreamweaver. If this option is not selected, Dreamweaver displays the Welcome screen or
+a blank screen when you start (depending on your Show Welcome Screen
+setting). </dd><p class="dlseparator"></p><dt class="dlterm">Warn When Opening Read-Only Files</dt>
+<dd>Alerts you when you open a read-only (locked)
+file. Choose to unlock/check out the file, view the file, or cancel. </dd><p class="dlseparator"></p><dt class="dlterm">Enable Related Files</dt>
+<dd>Lets you see which files are connected
+to the current document (for example, CSS or JavaScript files).
+Dreamweaver displays a button for each related file at the top of
+the document, and opens the file if you click the button.</dd><p class="dlseparator"></p><dt class="dlterm">Update Links When Moving Files</dt>
+<dd>Determines
+what happens when you move, rename, or delete a document within
+your site. Set this preference to always update links automatically,
+never update links, or prompt you to perform an update. (See <a href="WScbb6b82af5544594822510a94ae8d65-7c29a.html">Update links automatically</a>.)</dd><p class="dlseparator"></p><dt class="dlterm">Show Dialog When Inserting Objects</dt>
+<dd>Determines
+whether Dreamweaver prompts you to enter
+additional information when inserting images, tables, Shockwave
+movies, and certain other objects by using the Insert panel or the Insert
+menu. If this option is off, the dialog box does not appear and
+you must use the Property inspector to specify the source file for
+images, the number of rows in a table, and so on. For roll over
+images and Fireworks HTML, a dialog box always appears when you
+insert the object, regardless of this option setting. (To temporarily
+override this setting, Control-click (Windows) or Command-click (Macintosh)
+when creating and inserting objects.) </dd><p class="dlseparator"></p><dt class="dlterm">Enable Double-Byte Inline Input</dt>
+<dd>Lets you enter double-byte text directly into the Document
+window if you are using a development environment or language kit
+that facilitates double-byte text (such as Japanese characters).
+When this option is deselected, a text input window appears for
+entering and converting double-byte text; the text appears in the
+Document window after it is accepted. </dd><p class="dlseparator"></p><dt class="dlterm">Switch To Plain Paragraph After Heading</dt>
+<dd>Specifies that pressing Enter (Windows) or Return (Macintosh)
+at the end of a heading paragraph in Design view creates a new paragraph
+tagged with a <samp class="codeph">p</samp> tag. (A heading paragraph is one that’s
+tagged with a heading tag such as <samp class="codeph">h1</samp> or <samp class="codeph">h2</samp>.)
+When the option is disabled, pressing Enter or Return at the end
+of a heading paragraph creates a new paragraph tagged with the same
+heading tag (allowing you to type multiple headings in a row and
+then go back and fill in details).</dd><p class="dlseparator"></p><dt class="dlterm">Allow Multiple Consecutive Spaces</dt>
+<dd>Specifies that typing two or more spaces in Design view
+creates nonbreaking spaces that appear in a browser as multiple spaces.
+(For example, you can type two spaces between sentences, as you
+would on a typewriter.) This option is designed mostly for people
+who are used to typing in word processors. When the option is disabled,
+multiple spaces are treated as a single space (because browsers
+treat multiple spaces as single spaces).</dd><p class="dlseparator"></p><dt class="dlterm">Use &lt;strong&gt; and &lt;em&gt; in Place of &lt;b&gt;
+and &lt;i&gt;</dt>
+<dd>Specifies that Dreamweaver applies
+the <samp class="codeph">strong</samp> tag whenever you perform an action that would
+normally apply the <samp class="codeph">b</samp> tag, and applies the <samp class="codeph">em</samp> tag
+whenever you perform an action that would normally apply the <samp class="codeph">i</samp> tag.
+Such actions include clicking the Bold or Italic buttons in the
+text Property inspector in HTML mode and choosing Format&#160;&gt;
+Style&#160;&gt; Bold&#160;or Format&#160;&gt; Style&#160;&gt;
+Italic. To use the <samp class="codeph">b</samp> and <samp class="codeph">i</samp> tags
+in your documents, deselect this option.<div class="note"><span class="notetitle">Note:  </span>The World Wide
+Web Consortium discourages use of the <samp class="codeph"><var class="varname">b</var></samp> and <samp class="codeph"><var class="varname">i</var></samp> tags;
+the <samp class="codeph"><var class="varname">strong</var></samp> and <samp class="codeph"><var class="varname">em</var></samp> tags
+provide more semantic information than the <samp class="codeph"><var class="varname">b</var></samp> and <samp class="codeph"><var class="varname">i</var></samp> tags
+do.</div>
+</dd><p class="dlseparator"></p><dt class="dlterm">Warn when placing editable regions within &lt;p&gt;
+or &lt;h1&gt; - &lt;h6&gt; tags</dt>
+<dd>Specifies whether a warning message is displayed whenever
+you save a Dreamweaver template that has
+an editable region within a paragraph or heading tag. The message
+tells you that users will not be able to create more paragraphs
+in the region. It is enabled by default.</dd><p class="dlseparator"></p><dt class="dlterm">Centering</dt>
+<dd>Specifies whether you want to center elements using <samp class="codeph">div</samp><samp class="codeph">align="center"</samp> or
+the <samp class="codeph">center</samp> tag when you click the Align Center
+button in the Property inspector.<div class="note"><span class="notetitle">Note:  </span>Both of these approaches
+to centering have been officially deprecated as of the HTML 4.01
+specification; you should use CSS styles to center text. Both of
+these approaches are still technically valid as of the XHTML 1.0
+Transitional specification, but they’re no longer valid in the XHTML
+1.0 Strict specification.</div>
+</dd><p class="dlseparator"></p><dt class="dlterm">Maximum Number of History Steps</dt>
+<dd>Determines the number of steps that the History panel
+retains and shows. (The default value should be sufficient for most users.)
+If you exceed the given number of steps in the History panel, the
+oldest steps are discarded.<p>For more information, see <a href="WSc78c5058ca073340dcda9110b1f693f21-778ea.html">Task automation</a>.</p>
+</dd><p class="dlseparator"></p><dt class="dlterm">Spelling Dictionary</dt>
+<dd>lists the available spelling dictionaries. If a dictionary contains
+multiple dialects or spelling conventions (such as American English
+and British English), the dialects are listed separately in the
+Dictionary pop‑up menu. </dd><p class="dlseparator"></p></dl>
+</li>
+</ol>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7fc4a.html">Workspace layout overview</a></p><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7c29a.html">Update links automatically</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

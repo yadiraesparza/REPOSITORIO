@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Set layout guides</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7dbea.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7dbda.html" title="Set rulers"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7daea.html" title="Using guides with templates"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7dbfa.html">Laying out pages with HTML</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7dbea.html"><b>Using visual aids for layout</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Set layout guides
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7dbba"><h4 class="topictitle4">Create a horizontal or vertical guide</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7dbaa"><h4 class="topictitle4">Show or hide guides</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7db9a"><h4 class="topictitle4">Snap elements to guides</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7db7a"><h4 class="topictitle4">Lock or unlock all guides</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7db6a"><h4 class="topictitle4">View and move a guide to a specific position</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7db4a"><h4 class="topictitle4">View the distance between guides</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7db1a"><h4 class="topictitle4">Emulate the fold (visible area) of a web browser</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7db0a"><h4 class="topictitle4">Remove a guide</h4>
+</a></p></li><li><p><a href="#WS6B95F2F2-E7FF-4721-8A88-1B1380869A41a"><h4 class="topictitle4">Change guide settings</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>Guides
+are lines that you drag onto the document from the rulers. They
+help you place and align objects more precisely. You can also use
+guides to measure the size of page elements, or emulate the <dfn class="term">folds</dfn> (visible
+areas) of web browsers.</p>
+<p>To help you align elements, you can
+snap elements to guides, and snap guides to elements. (Elements
+must be absolutely positioned in order for the snap feature to work.)
+You can also lock guides to prevent them from being accidentally moved
+by another user.</p>
+</div>
+</div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7dbba" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7dbba"></a><h3 class="topictitle3">Create a horizontal or vertical guide</h3><div><ol><li class="stepexpand"><span>Drag from the corresponding ruler.</span></li>
+<li class="stepexpand"><span>Position the guide in the Document window and release
+the mouse button (reposition the guide by dragging it again). </span> <div class="note"><span class="notetitle">Note:  </span>By default, guides are recorded as absolute pixel measurements
+from the top or left side of the document, and are shown relative
+to the origin of the ruler. To record the guide as a percentage,
+press the Shift key while you create or move the guide.</div>
+</li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7dbaa" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7dbaa"></a><h3 class="topictitle3">Show or hide guides</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Select View&#160;&gt; Guides&#160;&gt;
+Show Guides.</span></div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7db9a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7db9a"></a><h3 class="topictitle3">Snap elements to guides</h3><div><ul><li class="stepexpand"><span>To snap elements to guides,
+select View&#160;&gt; Guides&#160;&gt; Snap to Guides.</span></li>
+<li class="stepexpand"><span>To snap guides to elements, select View&#160;&gt;
+Guides&#160;&gt; Guides Snap to Elements.</span> <div class="note"><span class="notetitle">Note:  </span>When you resize elements, such as absolutely-positioned
+elements (AP elements), tables, and images, the resized elements
+snap to guides.</div>
+</li>
+</ul>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7db7a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7db7a"></a><h3 class="topictitle3">Lock or unlock all guides</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Select View&#160;&gt; Guides&#160;&gt;
+Lock Guides.</span></div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7db6a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7db6a"></a><h3 class="topictitle3">View and move a guide to a specific position</h3><div><ol><li><span>Hold the mouse pointer over the guide
+to view its position.</span></li>
+<li><span>Double-click the guide.</span></li>
+<li><span>Enter the new position in the Move Guide dialog box and
+click OK.</span></li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7db4a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7db4a"></a><h3 class="topictitle3">View the distance between guides</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Press Control (Windows) or Command (Macintosh)
+and hold the mouse pointer anywhere between the two guides.</span> <div class="note"><span class="notetitle">Note:  </span>The unit of measure is the same as the unit of measure
+used for the rulers.</div>
+</div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7db1a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7db1a"></a><h3 class="topictitle3">Emulate the fold (visible area) of a web browser</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Select View&#160;&gt; Guides, and
+then select a preset browser size from the menu.</span></div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7db0a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7db0a"></a><h3 class="topictitle3">Remove a guide</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Drag the guide off the document.</span></div>
+</div></div>
+<div id="WS6B95F2F2-E7FF-4721-8A88-1B1380869A41a" class="nochunk"><a name="WS6B95F2F2-E7FF-4721-8A88-1B1380869A41a"></a><h3 class="topictitle3">Change guide settings</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Select View &gt; Guides &gt; Edit Guides,
+set the following options, and click OK.</span> <dl><dt class="dlterm">Guide color</dt>
+<dd>Specifies the color of the guide lines. Click the color
+swatch and select a color from the color picker, or type a hexadecimal
+number in the text box.</dd><p class="dlseparator"></p><dt class="dlterm">Distance Color</dt>
+<dd>Specifies the color of the lines that appear as distance
+indicators when you hold the mouse pointer between guides. Click
+the color swatch and select a color from the color picker, or type
+a hexadecimal number in the text box.</dd><p class="dlseparator"></p><dt class="dlterm">Show Guides</dt>
+<dd>Makes guides visible in Design view.</dd><p class="dlseparator"></p><dt class="dlterm">Snap to Guides</dt>
+<dd>Makes page elements snap to guides as you move elements around
+the page.</dd><p class="dlseparator"></p><dt class="dlterm">Lock Guides</dt>
+<dd>Locks guides in place.</dd><p class="dlseparator"></p><dt class="dlterm">Guides Snap to Elements</dt>
+<dd>Snaps guides to elements on the page as you drag guides.</dd><p class="dlseparator"></p><dt class="dlterm">Clear All</dt>
+<dd>Clears all guides from the page.</dd><p class="dlseparator"></p></dl>
+</div>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

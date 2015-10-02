@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Select frames and framesets</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7d4ea.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7d48a.html" title="Create frames and framesets"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7d3aa.html" title="Open a document in a frame"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7dbfa.html">Laying out pages with HTML</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7d4ea.html"><b>Using Frames</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Select frames and framesets
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7d3fa"><h4 class="topictitle4">Select a frame or frameset in the Frames panel</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7d3da"><h4 class="topictitle4">Select a frame or frameset in the Document window</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7d3ba"><h4 class="topictitle4">Select a different frame or frameset</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>To make changes to the properties
+of a frame or frameset, begin by selecting the frame or frameset
+you want to change. You can select a frame or frameset either in
+the Document window or by using the Frames panel.</p>
+<p>The Frames panel provides a visual representation
+of the frames within a frameset. It shows the hierarchy of the frameset
+structure in a way that may not be apparent in the Document window.
+In the Frames panel, a very thick border surrounds each frameset;
+each frame is surrounded by a thin gray line and is identified by
+a frame name.</p>
+<div class="fignone"><img alt="" id="lo_Frames-Panel" src="images/lo_Frames-Panel.png" /><div class="figdesc"></div><br /></div><p>In
+the Document window’s Design view, when a frame is selected, its
+borders are outlined with a dotted line; when a frameset is selected,
+all the borders of the frames within the frameset are outlined with
+a light dotted line.</p>
+<div class="note"><span class="notetitle">Note:  </span>Placing the insertion point in a document
+that’s displayed in a frame is not the same as selecting a frame.
+There are various operations (such as setting frame properties)
+for which you must select a frame.</div>
+</div>
+</div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7d3fa" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7d3fa"></a><h3 class="topictitle3">Select a frame or frameset in the Frames panel</h3><div><ol><li><span>Select Window &gt; Frames.</span></li>
+<li><span>In the Frames panel:</span><ul><li><p>To select a frame, click the frame. (A
+selection outline appears around the frame in both the Frames panel
+and the Document window’s Design view.)</p>
+</li>
+<li><p>To select a frameset, click the border that surrounds
+the frameset.</p>
+</li>
+</ul>
+</li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7d3da" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7d3da"></a><h3 class="topictitle3">Select a frame or frameset in the Document window</h3><div><ul><li class="stepexpand"><span>To select a frame, Shift-Alt‑click
+(Windows) or Shift-Option-click (Macintosh) inside a frame in Design
+view.</span></li>
+<li class="stepexpand"><span>To select a frameset, click one of the frameset’s internal
+frame borders in Design view. (Frame borders must be visible to
+do this; select View&#160;&gt;Visual Aids&#160;&gt; Frame
+Borders to make frame borders visible if they aren’t.)</span> <div class="note"><span class="notetitle">Note:  </span>It’s generally easier to select framesets in the Frames
+panel than in the Document window. For more information, see the
+above topics.</div>
+</li>
+</ul>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7d3ba" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7d3ba"></a><h3 class="topictitle3">Select a different frame or frameset</h3><div><ul><li><span>To select the next or previous
+frame or frameset at the same hierarchical level as the current
+selection, press Alt+Left Arrow or Alt+Right Arrow (Windows), or
+Command+Left Arrow or Command+Right Arrow (Macintosh). Using these keys,
+you can cycle through frames and framesets in the order in which
+they’re defined in the frameset file.</span></li>
+<li><span>To select the parent frameset (the frameset that contains
+the current selection), press Alt+Up Arrow (Windows) or Command+Up
+Arrow (Macintosh).</span></li>
+<li><span>To select the first child frame or frameset of the currently
+selected frameset (that is, first in the order in which they’re
+defined in the frameset file), press Alt+Down Arrow (Windows) or
+Command+Down Arrow (Macintosh).</span></li>
+</ul>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

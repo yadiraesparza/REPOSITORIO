@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Prepare a site for use with Contribute</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7f37a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7f31a.html" title="Contribute special files"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7f2fa.html" title="Administer a Contribute site using Dreamweaver"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7f63a.html">Working with Dreamweaver sites</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7f37a.html"><b>Managing Contribute sites with Dreamweaver</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Prepare a site for use with Contribute
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><p>If you’re preparing an existing Dreamweaver site
+for Contribute users, you need to explicitly enable Contribute compatibility
+to use Contribute-related features; Dreamweaver does
+not prompt you to do this; however, when you connect to a site that’s
+been set up as a Contribute site (that has an administrator), Dreamweaver prompts you to enable Contribute
+compatibility. </p>
+<div class="note"><span class="notetitle">Note:  </span>You must have Contribute installed on the same computer as Dreamweaver and you must be connected to
+the remote site before you enable Contribute compatibility. Otherwise, Dreamweaver cannot read Contribute’s administrative
+settings to determine whether CPS and Rollback are enabled.</div>
+<p>Not all connection types support Contribute
+compatibility. The following restrictions apply to connection types:</p>
+<ul><li><p>If your remote site connection uses WebDAV or Microsoft
+Visual SourceSafe, you can’t enable Contribute compatibility, because
+those source-control systems aren’t compatible with the Design Notes
+and Check In/Check Out systems that Dreamweaver uses
+for Contribute sites.</p>
+</li>
+<li><p>If you use RDS to connect to your remote site, you can enable
+Contribute compatibility, but you must customize your connection
+before you can share it with Contribute users.</p>
+</li>
+<li><p>If you’re using your local computer as a web server, you
+must set up the site using an FTP or network connection to your
+computer (rather than just a local folder path) to be able to share
+your connection with Contribute users.</p>
+</li>
+</ul>
+<p>When you enable Contribute compatibility, Dreamweaver automatically enables Design
+Notes (including the Upload Design Notes For Sharing option) and
+the Check In/Check Out system. </p>
+<div class="para">If Contribute Publishing Server
+(CPS) is enabled on the remote site you are connecting to, Dreamweaver notifies the CPS every time you
+trigger a network operation such as checking in, rolling back, or
+publishing a file. The CPS will log these events, and you can view
+the log in the CPS Administration Console. (If you disable CPS,
+these events are not logged.) <div class="note"><span class="notetitle">Note:  </span>CPS is enabled using Contribute.
+For more information, see Administering Contribute in Contribute
+Help.</div>
+</div>
+<ol><li><p>Select Site&#160;&gt; Manage Sites.</p>
+</li>
+<li><p>Select a site, click Edit, and click the Advanced tab.</p>
+</li>
+<li><p>Select the Contribute category from the Category list on
+the left, select Enable Contribute Compatibility. </p>
+</li>
+<li><p>If a dialog box appears saying that you must enable Design
+Notes and Check In/Check Out, click OK.</p>
+</li>
+<li><p>If you haven’t already provided your Check In/Check Out contact
+information, type your name and e‑mail address in the dialog box,
+and then click OK. Rollback status, CPS status, the Site Root URL
+text box, and the Administer Site in Contribute button appear in
+the Site Definition dialog box.</p>
+<p>If Rollback is enabled in
+Contribute, you’ll have the ability to roll back to previous versions
+of files that you’ve changed in Dreamweaver.</p>
+</li>
+<li><p>Check the URL in the Site Root
+URL text box and correct it if necessary. Dreamweaver constructs
+a site root URL based on other site-definition information you’ve
+provided, but sometimes the constructed URL isn’t quite right. </p>
+</li>
+<li><p>Click the Test button to verify that you’ve entered the correct
+URL.</p>
+<div class="note"><span class="notetitle">Note:  </span>If you are ready to send a connection key or perform
+Contribute site administration tasks now, skip the remaining steps.</div>
+</li>
+<li><p>Click Administer Site in Contribute.</p>
+</li>
+<li><p>Click OK and then click Done.</p>
+</li>
+</ol>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WSc78c5058ca073340dcda9110b1f693f21-7ed2a.html">Rolling back files (Contribute users)</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

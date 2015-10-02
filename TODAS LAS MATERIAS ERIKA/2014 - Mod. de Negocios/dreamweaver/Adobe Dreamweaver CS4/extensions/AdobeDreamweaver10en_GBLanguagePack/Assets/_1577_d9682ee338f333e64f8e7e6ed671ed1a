@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Apply, remove, or rename class styles</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7e29a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WS7F32B329-669E-455e-9E23-8AFB15658457a.html" title="Add a property to a rule"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WSD152C40D-CCA8-4901-BD43-FB9F1471A986a.html" title="Move CSS rules"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7e32a.html">Creating pages with CSS</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7e29a.html"><b>Creating and managing CSS</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Apply, remove, or rename class styles
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7e1fa"><h4 class="topictitle4">Apply a CSS class style</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7e1ea"><h4 class="topictitle4">Remove a class style from a selection</h4>
+</a></p></li><li><p><a href="#WS389FBD49-5D4F-4d53-A0F1-719D0C702DA2a"><h4 class="topictitle4">Rename a class style</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>Class styles
+are the only type of CSS style that can be applied to any text in
+a document, regardless of which tags control the text. All class
+styles associated with the current document are displayed in the
+CSS Styles panel (with a period [.] preceding their name) and in
+the Style pop‑up menu of the text Property inspector.</p>
+<p>You’ll
+see most styles updated immediately, however, you should preview
+your page in a browser to verify a style was applied as expected.
+When you apply two or more styles to the same text, the styles may
+conflict and produce unexpected results.</p>
+<div class="tip"><img src="images/tip_help.png" />When
+previewing styles defined in an external CSS style sheet, be sure
+to save the style sheet to ensure that your changes are reflected
+when you preview the page in a browser.</div></div>
+</div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7e1fa" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7e1fa"></a><h3 class="topictitle3">Apply a CSS class style</h3><div><ol><li class="stepexpand"><span>In the document, select the text to
+which you want to apply a CSS style.</span> <p>Place the insertion point in a paragraph to apply the style
+to the entire paragraph.</p>
+<p>If you select a range of text within
+a single paragraph, the CSS style affects only the selected&#160;range.</p>
+<p>To
+specify the exact tag to which the CSS style should be applied,
+select the tag&#160;in the tag selector located at the lower
+left of the Document window. </p>
+</li>
+<li class="stepexpand"><span>To apply a class style, do one of the following:</span><ul><li><p>In the CSS Styles panel (Window&#160;&gt;
+CSS Styles), select All mode, right-click the name of the style
+you want to apply, and select Apply from the context menu.</p>
+</li>
+<li><p>In the HTML Property inspector, select the class
+style you want to apply from the Class pop‑up&#160;menu.</p>
+</li>
+<li><p>In the Document window, right-click (Windows) or
+Control‑click (Macintosh) the selected text, and in the context
+menu, select CSS Styles and then select the style you want to apply.</p>
+</li>
+<li><p>Select Format&#160;&gt; CSS Styles, and in the
+submenu select the style you want to apply.</p>
+</li>
+</ul>
+</li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7e1ea" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7e1ea"></a><h3 class="topictitle3">Remove a class style from a selection</h3><div><ol><li><span>Select the
+object or text you want to remove the style from.</span></li>
+<li><span>In the HTML Property inspector (Window&#160;&gt;
+Properties), select None from the Class pop‑up menu.</span></li>
+</ol>
+</div></div>
+<div id="WS389FBD49-5D4F-4d53-A0F1-719D0C702DA2a" class="nochunk"><a name="WS389FBD49-5D4F-4d53-A0F1-719D0C702DA2a"></a><h3 class="topictitle3">Rename a class style</h3><div><ol><li class="stepexpand"><span>In the CSS
+styles panel, right-click the CSS class style you want to rename
+and select Rename Class.</span><ul><li><div class="para"><div class="tip"><img src="images/tip_help.png" />You can also rename
+a class by selecting Rename Class from the CSS Styles panel options
+menu.</div></div>
+</li>
+</ul>
+</li>
+<li class="stepexpand"><span>In the Rename Class dialog box, make sure that the class
+you want to rename is selected in the Rename Class pop‑up menu.</span></li>
+<li class="stepexpand"><span>In the New Name text box, enter the new name for the
+new class and click OK.</span> <p>If the class you’re renaming is internal to the head of
+the current document, Dreamweaver changes
+the class name as well as all instances of the class name in the
+current document. If the class you’re renaming is in an external
+CSS file, Dreamweaver opens and changes the
+class name in the file. Dreamweaver also
+launches a site-wide Find and Replace dialog box so that you can
+search for all instances of the old class name in your site.</p>
+</li>
+</ol>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7e30a.html">About Cascading Style Sheets</a></p><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7e2ea.html">About cascading styles</a></p><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7e2ca.html">About the CSS Styles panel</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

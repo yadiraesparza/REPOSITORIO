@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Create frames and framesets</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7d4ea.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7d49a.html" title="Work with framesets in the Document window"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7d41a.html" title="Select frames and framesets"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7dbfa.html">Laying out pages with HTML</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7d4ea.html"><b>Using Frames</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Create frames and framesets
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7d47a"><h4 class="topictitle4">Create a predefined frameset and display an existing document in a frame</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7d46a"><h4 class="topictitle4">Create an empty predefined frameset</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7d45a"><h4 class="topictitle4">Create a frameset</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7d44a"><h4 class="topictitle4">Split a frame into smaller frames</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7d43a"><h4 class="topictitle4">Delete a frame</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7d42a"><h4 class="topictitle4">Resize a frame</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>There
+are two ways to create a frameset in Dreamweaver:
+You can select from several predefined framesets or you can design
+it yourself. </p>
+<p>Choosing a predefined frameset sets up all the
+framesets and frames needed to create the layout and is the easiest
+way to create a frames-based layout quickly. You can insert a predefined
+frameset only in the Document window’s Design view.</p>
+<p>You can
+also design your own frameset in Dreamweaver by
+adding “splitters” to the Document window.</p>
+<div class="tip"><img src="images/tip_help.png" />Before
+creating a frameset or working with frames, make the frame borders visible
+in the Document window’s Design view by selecting View&#160;&gt;Visual
+Aids&#160;&gt; Frame Borders.</div></div>
+</div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7d47a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7d47a"></a><h3 class="topictitle3">Create a predefined frameset and display an existing document in a frame</h3><div><ol><li class="stepexpand"><span>Place the insertion point in a document
+and do one of the following:</span><ul><li><p> Choose Insert&#160;&gt; HTML&#160;&gt;
+Frames and select a predefined frameset.</p>
+</li>
+<li><p>In the Layout category of the Insert panel, click
+the drop-down arrow on the Frames button and select a predefined
+frameset.</p>
+<p>The frameset icons provide a visual representation
+of each frameset as applied to the current document. The blue area
+of a frameset icon represents the current document, and the white
+areas represent frames that will display other documents.</p>
+</li>
+</ul>
+</li>
+<li class="stepexpand"><span>If you have set up Dreamweaver to prompt you for frame accessibility attributes,
+select a frame from the pop-up menu, enter a name for the frame, and
+click OK. (For visitors who use screen readers, the screen reader
+will read this name when it encounters the frame in a page.) </span> <div class="note"><span class="notetitle">Note:  </span>If you click OK without entering a new name, Dreamweaver gives the frame a name that corresponds
+to its position (left frame, right frame, and so on) in the frameset.</div>
+ <div class="note"><span class="notetitle">Note:  </span>If you press Cancel, the frameset appears in the document,
+but Dreamweaver does not associate accessibility
+tags or attributes with it.</div>
+ <div class="tip"><img src="images/tip_help.png" />Select Window&#160;&gt; Frames to view
+a diagram of the frames you are naming.</div></li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7d46a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7d46a"></a><h3 class="topictitle3">Create an empty predefined frameset</h3><div><ol><li class="stepexpand"><span>Select File&#160;&gt; New.</span></li>
+<li class="stepexpand"><span>In the New Document dialog box, select the Page from
+Sample category.</span></li>
+<li class="stepexpand"><span>Select the Frameset folder in the Sample Folder column.</span></li>
+<li class="stepexpand"><span>Select a frameset from the Sample Page column and click
+Create.</span></li>
+<li class="stepexpand"><span>If you have activated the frame accessibility attributes
+in Preferences, the Frame Tag Accessibility Attributes dialog box
+appears; complete the dialog box for each frame and click OK.</span> <div class="note"><span class="notetitle">Note:  </span>If you press Cancel, the frameset appears in the document,
+but Dreamweaver does not associate accessibility
+tags or attributes with it.</div>
+</li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7d45a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7d45a"></a><h3 class="topictitle3">Create a frameset</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Select Modify&#160;&gt; Frameset,
+then select a splitting item (such as Split Frame Left or Split
+Frame Right) from the submenu.</span> <p>Dreamweaver splits the window into
+frames. If you had an existing document open, it appears in one
+of the frames.</p>
+</div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7d44a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7d44a"></a><h3 class="topictitle3">Split a frame into smaller frames</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;To split the frame where the
+insertion point is, select a splitting item from the Modify&#160;&gt;
+Frameset submenu.</span><ul><li><p>To split a frame or set of frames vertically
+or horizontally, drag a frame border from the edge into the middle
+of the Design view.</p>
+</li>
+<li><p>To split a frame using a frame border that isn’t
+at the edge of the Design view, Alt‑drag (Windows) or Option-drag
+(Macintosh) a frame border.</p>
+</li>
+<li><p>To divide a frame into four frames, drag a frame
+border from one of the corners of the Design view into the middle
+of a frame. </p>
+<div class="tip"><img src="images/tip_help.png" />To create three frames, start
+with two frames, then split one of them. It’s not easy to merge
+two adjacent frames without editing the frameset code, so changing
+four frames into three frames is harder than changing two frames
+into three frames.</div></li>
+</ul>
+</div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7d43a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7d43a"></a><h3 class="topictitle3">Delete a frame</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Drag
+a frame border off the page or to a border of the parent frame.</span> <p>If there’s unsaved content in a document in a frame that’s
+being removed, Dreamweaver prompts you to
+save the document.</p>
+<div class="note"><span class="notetitle">Note:  </span>You can’t remove a frameset entirely
+by dragging borders. To remove a frameset, close the Document window
+that displays it. If the frameset file has been saved, delete the
+file.</div>
+</div>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7d42a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7d42a"></a><h3 class="topictitle3">Resize a frame</h3><div><ul><li><span>To
+set approximate sizes for frames, drag frame borders in the Document window’s
+Design view.</span></li>
+<li><span>To specify exact sizes, and to specify how much space
+the browser allocates to a row or column of frames when the browser
+window size doesn’t allow the frames to display at full size, use
+the Property inspector.</span></li>
+</ul>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WSA2B0AC51-4CD7-465f-B51E-F463FED0939Ca.html">Designing pages for accessibility</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

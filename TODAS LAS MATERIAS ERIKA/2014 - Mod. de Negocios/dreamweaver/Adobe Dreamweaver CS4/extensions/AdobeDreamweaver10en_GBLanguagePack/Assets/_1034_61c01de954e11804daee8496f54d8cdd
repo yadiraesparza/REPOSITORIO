@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Work with Design Notes</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WSc78c5058ca073340dcda9110b1f693f21-7e98a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WSc78c5058ca073340dcda9110b1f693f21-7e96a.html" title="Associate Design Notes with files"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WSc78c5058ca073340dcda9110b1f693f21-7e91a.html" title="Testing your site"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WSc78c5058ca073340dcda9110b1f693f21-7f05a.html">Creating and Managing Files</a> /
+     <a href="WSc78c5058ca073340dcda9110b1f693f21-7e98a.html"><b>Storing file information in Design Notes</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Work with Design Notes
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WSc78c5058ca073340dcda9110b1f693f21-7e94a"><h4 class="topictitle4">Open Design Notes associated with a file</h4>
+</a></p></li><li><p><a href="#WSc78c5058ca073340dcda9110b1f693f21-7e93a"><h4 class="topictitle4">Assign a custom Design Notes status</h4>
+</a></p></li><li><p><a href="#WSc78c5058ca073340dcda9110b1f693f21-7e92a"><h4 class="topictitle4">Delete unassociated Design Notes from your site</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>After you associate a Design Note with a file,
+you can open the Design Note, change its status, or delete it. </p>
+</div>
+</div>
+<div id="WSc78c5058ca073340dcda9110b1f693f21-7e94a" class="nochunk"><a name="WSc78c5058ca073340dcda9110b1f693f21-7e94a"></a><h3 class="topictitle3">Open Design Notes associated with a file</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;Do one of the following to open the
+Design Notes:</span><ul><li><p>Open
+the file in the Document window, then select File&#160;&gt;
+Design Notes.</p>
+</li>
+<li><p>In the Files panel, right-click (Windows) or Control‑click
+(Macintosh) the file, then select Design Notes. </p>
+</li>
+<li><p>In the Notes column of the Files panel, double-click
+the yellow Design Notes icon.</p>
+<div class="note"><span class="notetitle">Note:  </span>To show the yellow Design
+Notes icons, select Site&#160;&gt; Manage Sites&#160;&gt;
+[your site name]&#160;&gt; Edit&#160;&gt; File View Columns
+on the Advanced tab. Select Notes in the list panel and choose the
+Show option. When you click the Expand button on the Files toolbar to
+show both the local and remote site, you have a Notes column in
+your local site that shows a yellow note icon for any file with
+a Design Note.</div>
+</li>
+</ul>
+</div>
+</div></div>
+<div id="WSc78c5058ca073340dcda9110b1f693f21-7e93a" class="nochunk"><a name="WSc78c5058ca073340dcda9110b1f693f21-7e93a"></a><h3 class="topictitle3">Assign a custom Design Notes status</h3><div><ol><li class="stepexpand"><span>Open Design Notes for a file or object
+(see the previous procedure).</span></li>
+<li class="stepexpand"><span>Click the All Info tab.</span></li>
+<li class="stepexpand"><span>Click the Plus (+) button.</span></li>
+<li class="stepexpand"><span>In the Name field, enter the word <samp class="codeph"><kbd class="userinput">status</kbd></samp>.</span></li>
+<li class="stepexpand"><span>In the Value field, enter the status.</span> <p>If a status value already existed, it’s replaced with the
+new one.</p>
+</li>
+<li class="stepexpand"><span>Click the Basic Info tab and note that the new status
+value appears in the Status pop‑up menu.</span> <div class="note"><span class="notetitle">Note:  </span>You can have only one custom value in the status menu
+at a time. If you follow this procedure again, Dreamweaver replaces the status value you
+entered the first time with the new status value you enter.</div>
+</li>
+</ol>
+</div></div>
+<div id="WSc78c5058ca073340dcda9110b1f693f21-7e92a" class="nochunk"><a name="WSc78c5058ca073340dcda9110b1f693f21-7e92a"></a><h3 class="topictitle3">Delete unassociated Design Notes from your site</h3><div><ol><li class="stepexpand"><span>Select Site&#160;&gt; Manage Sites.</span></li>
+<li class="stepexpand"><span>Select the site and click Edit.</span></li>
+<li class="stepexpand"><span>In the Site Definition dialog box, select Design Notes
+from the category list on the left.</span></li>
+<li class="stepexpand"><span>Click the Clean Up button. </span> <p>Dreamweaver prompts you to verify
+that it should delete any Design Notes that are no longer associated
+with a file in your site. </p>
+<p>If you use Dreamweaver to
+delete a file that has an associated Design Notes file, Dreamweaver deletes the Design Notes file
+too; so usually orphan Design Notes files occur only if you delete
+or rename a file outside of Dreamweaver.</p>
+<div class="note"><span class="notetitle">Note:  </span>If
+you deselect the Maintain Design Notes option before you click Clean
+Up, Dreamweaver deletes all Design Notes
+files for your site.</div>
+</li>
+</ol>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

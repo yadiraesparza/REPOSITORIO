@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * XML data and repeating elements</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7a61a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7a5ea.html" title="Client-side XSL transformations"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7a5ca.html" title="Previewing XML data"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7a62a.html">Displaying XML data with XSLT</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7a61a.html"><b>About XML and XSLT</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    XML data and repeating elements
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><p>The
+Repeating Region XSLT object lets you display repeating elements
+from an XML file within a page. Any region containing an XML data
+placeholder can be turned into a repeated region. However, the most
+common regions are a table, a table row, or a series of table rows. </p>
+<p>The following example shows how the Repeating Region XSLT object
+is applied to a table row that displays menu information for a restaurant.
+The initial row displays three different elements from the XML schema:
+item, description, and price. When the Repeating Region XSLT object
+is applied to the table row, and the page is processed by an application
+server or a browser, the table is repeated with unique data inserted
+in each new table row.</p>
+<div class="fignone"><a href="#" onclick="return showHideImage('xm_pib', this);">View full size graphic</a><img alt="" id="xm_pib" src="images/xm_pib.png" /><div class="figdesc"></div><br /></div><p>When you apply a Repeating Region XSLT object to an element in
+the Document window, a thin, tabbed, gray outline appears around
+the repeated region. When you preview your work in a browser (File&#160;&gt;
+Preview in Browser), the gray outline disappears and the selection
+expands to display the specified repeating elements in the XML file,
+as in the previous illustration.</p>
+<p>When you add the Repeating Region XSLT object to the page, the
+length of the XML data placeholder in the Document window is truncated.
+This is because Dreamweaver updates the XPath
+(XML Path language) expression for the XML data placeholder so that
+it is relative to the path of the repeating element.</p>
+<p>For example, the following code is for a table that contains
+two dynamic placeholders, without a Repeating Region XSLT object
+applied to the table:</p>
+<pre>&lt;table width="500" border="1"&gt; 
+    &lt;tr&gt; 
+        &lt;td&gt;&lt;xsl:value-of select="rss/channel/item/title"/&gt;&lt;/td&gt; 
+    &lt;/tr&gt; 
+    &lt;tr&gt; 
+        &lt;td&gt;&lt;xsl:value-of select="rss/channel/item/description"/&gt;&lt;/td&gt; 
+    &lt;/tr&gt; 
+&lt;/table&gt;</pre>
+<p>The following code is for the same table with the Repeating Region
+XSLT object applied to it:</p>
+<pre>&lt;xsl:for-each select="rss/channel/item"&gt; 
+    &lt;table width="500" border="1"&gt; 
+        &lt;tr&gt; 
+            &lt;td&gt;&lt;xsl:value-of select="title"/&gt;&lt;/td&gt; 
+        &lt;/tr&gt; 
+        &lt;tr&gt; 
+            &lt;td&gt;&lt;xsl:value-of select="description"/&gt;&lt;/td&gt; 
+        &lt;/tr&gt; 
+    &lt;/table&gt; 
+&lt;/xsl:for-each&gt;</pre>
+<p>In the previous example, Dreamweaver has
+updated the XPath for the items that fall within the Repeating Region
+(title &amp; description) to be relative to the XPath in the enclosing <samp class="codeph">&lt;xsl:for-each&gt;</samp> tags,
+rather than the full document.</p>
+<p>Dreamweaver generates context-relative
+XPath expressions in other cases as well. For example, if you drag
+an XML data placeholder to a table that already has a Repeating
+Region XSLT object applied to it, Dreamweaver automatically displays
+the XPath relative to the existing XPath in the enclosing <samp class="codeph">&lt;xsl:for-each&gt;</samp> tags.</p>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7a55a.html">Display repeating XML elements</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

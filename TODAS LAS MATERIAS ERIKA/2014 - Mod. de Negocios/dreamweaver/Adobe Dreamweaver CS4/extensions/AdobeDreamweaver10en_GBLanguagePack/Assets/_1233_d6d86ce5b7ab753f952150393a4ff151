@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Use the XPath Expression Builder to add expressions for XML data</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7a5ba.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7a49a.html" title="Insert XSL comments"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7a46a.html" title="Troubleshooting XSL transformations"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7a62a.html">Displaying XML data with XSLT</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7a5ba.html"><b>Performing XSL transformations on the server</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Use the XPath Expression Builder to add expressions for XML data
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WSDA40F6DB-AAD3-4a32-BCA2-73418B10733Da"><h4 class="topictitle4">Create an XPath expression to identify a specific node</h4>
+</a></p></li><li><p><a href="#WS83DD46AC-0ADD-4c85-B66C-5A0750518186a"><h4 class="topictitle4">Select a node to repeat</h4>
+</a></p></li><li><p><a href="#WS77D242CA-3EDB-4bb5-BB92-5DA4D11ED083a"><h4 class="topictitle4">Filter the data to be repeated</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>XPath (XML Path Language) is a non-XML syntax
+for addressing portions of an XML document. It is used mostly as
+a query language for XML data, just as the SQL language is used
+to query databases. For more information on XPath, see the XPath
+language specification on the W3C website at <a href="http://www.w3.org/TR/xpath" target="_blank">www.w3.org/TR/xpath</a>. </p>
+<p>The
+XPath Expression Builder is a Dreamweaver feature
+that lets you build simple XPath expressions for identifying specific
+nodes of data and for repeating regions. The advantage of using
+this method instead of dragging values from the XML schema tree
+is that you can format the value that is displayed. The current context
+is identified based on the position of the insertion point in the
+XSL file when the XPath Expression Builder dialog box is opened.
+The current context is in boldface type in the XML schema tree.
+As you make selections within this dialog box, the correct XPath
+statements, relative to your current context, are generated. This
+simplifies the process of writing correct XPath expressions for beginners
+and advanced users.</p>
+<div class="note"><span class="notetitle">Note:  </span>This feature is designed to help you
+build simple XPath expressions to identify a specific node or for
+repeating regions. It does not allow you to edit the expressions by
+hand. If you need to create complex expressions, use the XPath Expression
+Builder to get started and then customize your expressions in Code
+view or with the Property inspector.</div>
+</div>
+</div>
+<div id="WSDA40F6DB-AAD3-4a32-BCA2-73418B10733Da" class="nochunk"><a name="WSDA40F6DB-AAD3-4a32-BCA2-73418B10733Da"></a><h3 class="topictitle3">Create an XPath expression to identify a specific node</h3><div><ol><li class="stepexpand"><span>Double-click the XML data placeholder
+on the page to open the XPath Expression Builder. </span></li>
+<li class="stepexpand"><span>In the XPath Expression Builder (Dynamic Text) dialog
+box, select any node in the XML schema tree. </span> <p>The correct XPath expression is written in the Expression
+box to identify the node.</p>
+<div class="note"><span class="notetitle">Note:  </span>If you select a different node
+in the XML schema tree, the expression changes to reflect your choice. </div>
+<p>In
+the following example, you want to display the <samp class="codeph">price</samp> subelement
+of the <samp class="codeph">item</samp> node:</p>
+<div class="fignone"><img alt="" id="xm_xpath-dyntext" src="images/xm_xpath-dyntext.png" /><div class="figdesc"></div><br /></div><p>This
+selection would insert the following code in your XSLT page:</p>
+<pre>&lt;xsl:value-of select="price"/&gt;</pre>
+</li>
+<li class="stepexpand"><span>(Optional) Select a formatting option from the Format
+pop‑up menu.</span> <p>Formatting a selection is useful when the value of your
+node returns a number. Dreamweaver provides
+a predefined list of formatting functions. For a complete list of
+available formatting functions and examples, see the Reference panel.</p>
+<p>In
+the following example, you want to format the <samp class="codeph">price</samp> subelement
+as a currency with two decimal places:</p>
+<div class="fignone"><img alt="" id="xm_xpath-dyntextformat" src="images/xm_xpath-dyntextformat.png" /><div class="figdesc"></div><br /></div><div class="para">These
+options would insert the following code in your XSLT page:<pre>&lt;xsl:value-of select="format-number(provider/store/items/item/price,'$#.00')"/&gt;</pre>
+</div>
+</li>
+<li class="stepexpand"><span>Click OK.</span></li>
+<li class="stepexpand"><span>To display the value of each node in the XML file, apply
+a repeating region to the element containing the dynamic text (for
+example, an HTML table row or a paragraph).</span> <p>For more information and examples on selecting nodes to
+return a value, see the <samp class="codeph">&lt;xsl:value-of/&gt;</samp> section
+in the Reference panel.</p>
+</li>
+</ol>
+</div></div>
+<div id="WS83DD46AC-0ADD-4c85-B66C-5A0750518186a" class="nochunk"><a name="WS83DD46AC-0ADD-4c85-B66C-5A0750518186a"></a><h3 class="topictitle3">Select a node to repeat</h3><div><div class="section"><p>You can select a node to repeat over and,
+optionally, to filter the results. In the XPath Expression Builder
+dialog box, your selected content will be wrapped inside an <samp class="codeph">&lt;xsl:for-each&gt;</samp> block.
+If you have not selected content, the <samp class="codeph">&lt;xsl:for-each&gt;</samp> block
+will be entered at the insertion point of your cursor.</p>
+</div>
+<ol><li class="stepexpand"><span>Double-click the XML data placeholder on the page
+to open the XPath Expression Builder.</span></li>
+<li class="stepexpand"><span>In the XPath Expression Builder (Repeating Region) dialog
+box, select the item to repeat in the XML schema tree. </span> <p>The correct XPath expression is written in the Expression
+box to identify the node.</p>
+<div class="note"><span class="notetitle">Note:  </span>Repeating items are identified
+with a Plus (+) symbol in the XML schema tree. </div>
+<p>In the
+following example, you want to repeat each <samp class="codeph">item</samp> node
+within the XML file.</p>
+<div class="fignone"><img alt="" id="xm_xpath-repeatregion" src="images/xm_xpath-repeatregion.png" /><div class="figdesc"></div><br /></div><p>When
+you click OK, the following code is inserted in your XSLT page:</p>
+<pre>&lt;xsl:for-each select="provider/store/items/item"&gt; 
+ Content goes here 
+&lt;/xsl:for-each&gt;</pre>
+<p>In some cases, you may want
+to work with a subset of the repeating nodes—for example, you may
+only want items where an attribute has a specific value. In this case,
+you need to create a filter. </p>
+</li>
+</ol>
+</div></div>
+<div id="WS77D242CA-3EDB-4bb5-BB92-5DA4D11ED083a" class="nochunk"><a name="WS77D242CA-3EDB-4bb5-BB92-5DA4D11ED083a"></a><h3 class="topictitle3">Filter the data to be repeated</h3><div><div class="section"><p>Use a filter to identify repeating nodes that
+have specific attribute values.</p>
+</div>
+<ol><li class="stepexpand"><span>In the XML schema tree, select a node to repeat. </span></li>
+<li class="stepexpand"><span>Click the Build Filter expander button. </span></li>
+<li class="stepexpand"><span>Click the Plus (+) button to create an empty filter. </span></li>
+<li class="stepexpand"><span>Enter the filter criteria in the following fields:</span> <dl><dt class="dlterm">Filter By</dt>
+<dd>Specifies the repeating node that contains the data you
+want to filter by. The pop‑up menu provides a list of ancestor nodes
+relative to the node you selected in the XML schema tree.</dd><p class="dlseparator"></p><dt class="dlterm">Where</dt>
+<dd>Specifies the attribute or subelement of the Filter By
+node that will be used to limit the results. You can select an attribute
+or subelement from the pop‑up menu, or you can enter your own XPath
+expression in this field to identify children that exist deeper
+within the schema tree.</dd><p class="dlseparator"></p><dt class="dlterm">Operator</dt>
+<dd>Specifies the comparison operator to use in the filter
+expression.</dd><p class="dlseparator"></p><dt class="dlterm">Value</dt>
+<dd>Specifies the value to check for in the Filter By node.
+Enter the value. If dynamic parameters are defined for your XSLT
+page, you can select one from the pop‑up menu.</dd><p class="dlseparator"></p></dl>
+</li>
+<li class="stepexpand"><span>To specify another filter, click the Plus (+) button
+again.</span> <p>As you enter values or make selections in the pop‑up menus,
+the XPath expression in the Expression box changes. </p>
+<p>In the
+following example, you want to restrict the result set to those <samp class="codeph">item</samp> nodes where
+the value of the <samp class="codeph">@available</samp> attribute is <samp class="codeph">true</samp>. </p>
+<div class="fignone"><img alt="" id="xm_xpath-repeatwithfilter" src="images/xm_xpath-repeatwithfilter.png" /><div class="figdesc"></div><br /></div><div class="para">When
+you click OK, the following code is inserted in your XSLT page:<pre>&lt;xsl:for-each select="provider/store/items/item[@available = &amp;apos;true&amp;apos;]"&gt; 
+      Content goes here 
+&lt;/xsl:for-each&gt;</pre>
+</div>
+<div class="note"><span class="notetitle">Note:  </span>You need to surround
+string values such as true in quotes. Dreamweaver encodes
+the quotes for you (&amp;apos;) so that they are entered as valid
+XHTML.</div>
+<p>You can create more complex filters that allow you
+to specify parent nodes as part of your filter criteria. In the
+following example, you want to restrict the result set to those <samp class="codeph">item</samp> nodes
+where the <samp class="codeph">store</samp>’s <samp class="codeph">@id</samp> attribute
+is equal to 1 and the <samp class="codeph">item</samp>’s <samp class="codeph">price</samp> node
+is greater than 5. </p>
+<div class="fignone"><img alt="" id="xm_xpath-repeatwithfilter2" src="images/xm_xpath-repeatwithfilter2.png" /><div class="figdesc"></div><br /></div><div class="para">When
+you click OK, the following code is inserted in your XSLT page:<pre>&lt;xsl:for-each select="provider/store[@id = 1]/items/item[price &amp;gt; 5]"&gt; 
+    Content goes here 
+&lt;/xsl:for-each&gt;</pre>
+</div>
+<p>For more information and
+examples of repeating regions, see the <samp class="codeph">&lt;xsl:for-each&gt;</samp> section
+in the Reference panel.</p>
+</li>
+</ol>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

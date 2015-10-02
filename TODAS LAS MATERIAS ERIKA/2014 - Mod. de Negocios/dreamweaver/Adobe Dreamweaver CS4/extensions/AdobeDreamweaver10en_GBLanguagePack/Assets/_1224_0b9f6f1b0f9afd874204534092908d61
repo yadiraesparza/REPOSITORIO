@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Build master and detail pages in one operation</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-78b8a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WS686CEC60-2A51-47fc-8325-4D08D8D5CCFEa.html" title="Find a specific record and display it on a page (ASP)"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-78b0a.html" title="Building search and results pages"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-78d3a.html">Building applications visually</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-78b8a.html"><b>Building master and detail pages</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Build master and detail pages in one operation
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><div class="section"><p>When
+developing web applications, you can quickly build master and detail pages
+using the Master Detail Page Set data object.</p>
+</div>
+<ol><li class="stepexpand"><span>To create a blank dynamic page, select File&#160;&gt;
+New&#160;&gt; Blank Page, select a dynamic page from the Page
+Type list, and click Create.</span> <p>This page becomes the master page.</p>
+</li>
+<li class="stepexpand"><span>Define a recordset for the page.</span> <p>Make sure the recordset contains not only all the columns
+you’ll need for the master page, but also all the columns you’ll
+need for the detail page. Typically, the recordset on the master
+page extracts a few columns from a database table while the recordset
+on the detail page extracts more columns from the same table to provide
+the extra detail.</p>
+</li>
+<li class="stepexpand"><span>Open the master page in Design view, and select Insert&#160;&gt;
+Data Objects&#160;&gt; Master Detail Page Set.</span></li>
+<li class="stepexpand"><span>In the Recordset pop‑up menu, make sure the recordset
+containing the records you want to display on the master page is
+chosen.</span></li>
+<li class="stepexpand"><span>In the Master Page Fields area, select the recordset
+columns to display on the master page.</span> <p>By default, all the columns in the recordset are selected.
+If your recordset contains a unique key column such as <samp class="codeph">recordID</samp>,
+select it and click the Minus (-) button so that it is not displayed
+on your page.</p>
+</li>
+<li class="stepexpand"><span>To change the order in which the columns appear on the
+master page, select a column in the list and click the up or down
+arrow.</span> <p>On the master page, the recordset columns will be arranged
+horizontally in a table. Clicking the up arrow moves the column
+to the left; clicking the down arrow moves the column to the right.</p>
+</li>
+<li class="stepexpand"><span>In the Link To Detail From pop‑up menu, select the column
+in the recordset that will display a value that also serves as a
+link to the detail page.</span> <p>For example, if you want each product name on your master
+page to have a link to the detail page, select the recordset column
+containing product names.</p>
+</li>
+<li class="stepexpand"><span>In the Pass Unique Key pop‑up menu, select the column
+in the recordset containing values identifying the records.</span> <p>Usually, the column chosen is the record ID number. This
+value is passed to the detail page so that it can identify the record
+chosen by the user.</p>
+</li>
+<li class="stepexpand"><span>Deselect the Numeric option if the unique key column
+is not numeric. </span> <div class="note"><span class="notetitle">Note:  </span>This option is selected by default; it does not appear
+for all server models.</div>
+</li>
+<li class="stepexpand"><span>Specify the number of records to display on the master
+page.</span></li>
+<li class="stepexpand"><span>In the Detail Page Name box, click Browse and locate
+the detail page file you created, or enter a name and let the data
+object create one for you.</span></li>
+<li class="stepexpand"><span>In the Detail Page Fields area, select the columns to
+be displayed on the detail page.</span> <p>By default, all the columns in the master page’s recordset
+are selected. If the recordset contains a unique key column such
+as <samp class="codeph">recordID</samp>, select it and click the Minus (-)
+button so that it is not displayed on the detail page.</p>
+</li>
+<li class="stepexpand"><span>To change the order in which the columns appear on the
+detail page, select a column in the list and click the up or down
+arrow.</span> <p>On the detail page, the recordset columns are arranged
+vertically in a table. Clicking the up arrow moves the column up;
+clicking the down arrow moves the column down.</p>
+</li>
+<li class="stepexpand"><span>Click OK.</span> <p>The data object creates a detail page (if you didn’t already
+create one) and adds dynamic content and server behaviors to both
+the master and detail pages.</p>
+</li>
+<li class="stepexpand"><span>Customize the layout of the master and detail pages to
+suit your needs.</span> <p>You can fully customize the layout of each page by using
+the Dreamweaver page-design tools. You can
+also edit the server behaviors by double-clicking them in the Server
+Behaviors panel.</p>
+<p>After creating master and detail pages with
+the data object, use the Server Behaviors panel (Window&#160;&gt;
+Server Behaviors) to modify the various building blocks the data
+object inserts into the pages. </p>
+</li>
+</ol>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WSE8260B1A-DC88-41f2-A793-5990A58309C6a.html">Edit dynamic content</a></p><p>&#160;<a href="WSc78c5058ca073340dcda9110b1f693f21-799da.html">Defining sources of dynamic content</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Specify a missing character entity</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WS4B3CEC82-A2FF-49bc-AF2A-685CE37C47D3a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WS4B3CEC82-A2FF-49bc-AF2A-685CE37C47D3a.html" title="Missing character entities"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WSc78c5058ca073340dcda9110b1f693f21-7a31.html" title="Preparing to build dynamic sites"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7a62a.html">Displaying XML data with XSLT</a> /
+     <a href="WS4B3CEC82-A2FF-49bc-AF2A-685CE37C47D3a.html"><b>Missing character entities</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Specify a missing character entity
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7a33a"><h4 class="topictitle4">Specify a missing entity definition</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7a32a"><h4 class="topictitle4">Add entity definitions to the XSL files Dreamweaver creates by default</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>In XSLT, some characters are not allowed in
+certain contexts. For example, you cannot use the less than sign
+(&lt;) and the ampersand (&amp;) in the text between tags or in
+an attribute value. The XSLT transformation engine will give you
+an error if those characters are used incorrectly. To solve the
+problem, you can specify character entities to replace the special
+characters. </p>
+<p>A character entity is a string of characters
+that represents other characters. Character entities are either
+named or numbered. A named entity begins with an ampersand (&amp;)
+followed by the name or characters, and ends with a semicolon (;). For
+example, <samp class="codeph">&amp;lt;</samp> represents the left angle bracket
+character (&lt;). Numbered entities also start and end the same
+way, except that a hash sign (#) and a number specify the character.</p>
+<div class="para">XSLT
+has the following five predefined entities:
+<div class="tablenoborder"><table border="1" cellpadding="4" cellspacing="0"><thead align="left"><tr><th valign="top" width="NaN%" id="d16e41855"><p>Character</p>
+</th>
+<th valign="top" width="NaN%" id="d16e41858"><p>Entity Code</p>
+</th>
+</tr>
+</thead>
+<tbody><tr><td valign="top" width="NaN%" headers="d16e41855 "><p>&lt; (less-than)</p>
+</td>
+<td valign="top" width="NaN%" headers="d16e41858 "><p>&amp;lt;</p>
+</td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e41855 "><p>&amp; (ampersand)</p>
+</td>
+<td valign="top" width="NaN%" headers="d16e41858 "><p>&amp;amp;</p>
+</td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e41855 "><p>&gt; (greater-than)</p>
+</td>
+<td valign="top" width="NaN%" headers="d16e41858 "><p>&amp;gt;</p>
+</td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e41855 "><p>" (quote)</p>
+</td>
+<td valign="top" width="NaN%" headers="d16e41858 "><p>&amp;quot;</p>
+</td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e41855 "><p>‘ (apostrophe)</p>
+</td>
+<td valign="top" width="NaN%" headers="d16e41858 "><p>&amp;apos;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>If you use other character entities
+in an XSL file, you need to define them in the DTD section of the
+XSL file. Dreamweaver provides several default
+entity definitions that you can see at the top of an XSL file created
+in Dreamweaver. These default entities cover
+a broad selection of the most commonly used characters.</p>
+<p>When
+you preview your XSL file in a browser, Dreamweaver checks
+the XSL file for undefined entities and notifies you if an undefined
+entity is found. </p>
+<div class="para">If you preview an XML file attached to an
+XSLT file or if you preview a server-side page with an XSLT transformation,
+the server or browser (instead of Dreamweaver)
+notifies you of an undefined entity. The following is an example
+of a message you may get in Internet Explorer when you request an
+XML file transformed by an XSL file with a missing entity definition:<pre>Reference to undefined entity 'auml'. Error processing resource 'http://localhost/testthis/list.xsl'. Line 28, Position 20 
+&lt;p class=''test''&gt;&amp;auml;&lt;/p&gt; 
+-------------------^</pre>
+</div>
+<p>To correct the error in your
+page, you must add the entity definition to your page manually. </p>
+</div>
+</div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7a33a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7a33a"></a><h3 class="topictitle3">Specify a missing entity definition</h3><div><ol><li class="stepexpand"><span>Look up the missing character in the
+character entity reference page on the W3C website at <a href="http://www.w3.org/TR/REC-html40/sgml/entities.html" target="_blank">www.w3.org/TR/REC-html40/sgml/entities.html</a>.</span> <p>This web page contains the 252 allowed entities in HTML
+4 and XHTML 1.0.</p>
+<p>For example, if the character entity Egrave
+is missing, search for “Egrave” on the W3C web page. You will find
+the following entry:</p>
+<div class="para"><pre>&lt;!ENTITY Egrave CDATA "&amp;#200;" -- latin capital letter E with grave, U+00C8 ISOlat1 --&gt;</pre>
+</div>
+</li>
+<li class="stepexpand"><span>Make a note of the entity name and entity code in the
+entry.</span> <p>In the example, <samp class="codeph">Egrave</samp> is the entity name,
+and <samp class="codeph">&amp;#200</samp> is the entity code. </p>
+</li>
+<li class="stepexpand"><span>With this information, switch to Code view and enter
+the following entity tag at the top of your XSL file (following
+the Doctype declaration and with the other entity tags):</span> <div class="para"><pre>&lt;!ENTITY <var class="varname">entityname</var> "<var class="varname">entitycode</var>;"&gt;</pre>
+</div>
+<div class="para">In
+the example, you would enter the following entity tag:<pre>&lt;!ENTITY Egrave "&amp;#200;"&gt;</pre>
+</div>
+</li>
+<li class="stepexpand"><span>Save your file.</span> <p>If you repeatedly use the same character entities, you
+may want to permanently add their definitions in the XSL files Dreamweaver creates by default when you use
+File&#160;&gt; New.</p>
+</li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7a32a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7a32a"></a><h3 class="topictitle3">Add entity definitions to the XSL files Dreamweaver creates by default</h3><div><ol><li class="stepexpand"><span>Locate the following configuration file
+in the Dreamweaver application folder and
+open it in any text editor:</span> <p>Configuration/DocumentTypes/MMDocumentTypeDeclarations.xml</p>
+</li>
+<li class="stepexpand"><span>Locate the declaration called mm_xslt_1:</span> <div class="para"><pre>&lt;documenttypedeclaration id="mm_xslt_1"&gt;</pre>
+</div>
+</li>
+<li class="stepexpand"><span>Enter the new entity tag or tags in the list of entity
+tags, as follows:</span> <div class="para"><pre>&lt;!ENTITY <var class="varname">entityname</var> "<var class="varname">entitycode</var>;"&gt;</pre>
+</div>
+</li>
+<li class="stepexpand"><span>Save the file and restart Dreamweaver.</span></li>
+</ol>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

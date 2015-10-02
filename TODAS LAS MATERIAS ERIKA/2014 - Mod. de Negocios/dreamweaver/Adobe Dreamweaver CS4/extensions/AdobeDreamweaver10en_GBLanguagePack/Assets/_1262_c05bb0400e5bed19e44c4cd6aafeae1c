@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Client-side XSL transformations</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7a61a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7a5fa.html" title="Server-side XSL transformations"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7a5da.html" title="XML data and repeating elements"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7a62a.html">Displaying XML data with XSLT</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7a61a.html"><b>About XML and XSLT</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Client-side XSL transformations
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><p>You can perform XSL transformations
+on the client without the use of an application server. You can
+use Dreamweaver to create an entire XSLT
+page that will do this; however, client-side transformations require
+manipulation of the XML file that contains the data you want to
+display. Additionally, client-side transformations will only work
+in modern browsers (Internet Explorer 6, Netscape 8, Mozilla 1.8,
+and Firefox 1.0.2). For more information on browsers that do and don’t
+support XSL transformations, see <a href="http://www.w3schools.com/xsl/xsl_browsers.asp" target="_blank">www.w3schools.com/xsl/xsl_browsers.asp</a>.</p>
+<p>First, create an entire XSLT page and attach an XML data source. (Dreamweaver prompts you to attach the data
+source when you create the new page.) You can create an XSLT page
+from scratch, or you can convert an existing HTML page to an XSLT
+page. When you convert an existing HTML page to an XSLT page you
+must attach an XML data source using the Bindings panel (Window&#160;&gt;
+Bindings).</p>
+<p>After
+you’ve created your XSLT page, you must link it to the XML file
+containing the XML data by inserting a reference to the XSLT page
+in the XML file itself (much like you would insert a reference to
+an external CSS style sheet in the <samp class="codeph">&lt;head&gt;</samp> section
+of an HTML page). Your site visitors must view the XML file (not
+the XSLT page) in a browser. When your site visitors view the page,
+the browser performs the XSL transformation and displays the XML
+data, formatted by the linked XSLT page.</p>
+<p>The relationship between the linked XSLT and XML pages is conceptually
+similar, yet different from the external CSS/HTML page model. When
+you have an HTML page that contains content (such as text), you
+use an external style sheet to format that content. The HTML page
+determines the content, and the external CSS code, which the user
+never sees, determines the presentation. With XSLT and XML, the
+situation is reversed. The XML file (which the user never sees in
+its raw form), determines the content while the XSLT page determines
+the presentation. The XSLT page contains the tables, layout, graphics,
+and so forth that the standard HTML usually contains. When a user
+views the XML file in a browser, the XSLT page formats the content.</p>
+<div class="fignone"><a href="#" onclick="return showHideImage('xml_workflow_2', this);">View full size graphic</a><img alt="" id="xml_workflow_2" src="images/xml_workflow_2.png" /><div class="figdesc"></div><br /><dl><dt class="dlterm">1.</dt>
+<dd>Browser requests XML file</dd><p class="dlseparator"></p><dt class="dlterm">2.</dt>
+<dd>Server
+responds by sending  XML file to browser</dd><p class="dlseparator"></p><dt class="dlterm">3.</dt>
+<dd>Browser
+reads XML directive and calls XSLT file</dd><p class="dlseparator"></p><dt class="dlterm">4.</dt>
+<dd>Server
+sends XSLT file to browser</dd><p class="dlseparator"></p><dt class="dlterm">5.</dt>
+<dd>Browser
+transforms XML data and displays it in browser</dd><p class="dlseparator"></p></dl>
+</div><p>When you use Dreamweaver to link an XSLT
+page to an XML page, Dreamweaver inserts
+the appropriate code for you at the top of the XML page. If you
+own the XML page to which you’re linking (that is, if the XML file exclusively
+lives on your web server), all you need to do is use Dreamweaver to insert the appropriate code
+that links the two pages. When you own the XML file, the XSL transformations
+performed by the client are fully dynamic. That is, whenever you
+update the data in the XML file, any HTML output using the linked XSLT
+page will be automatically updated with the new information.</p>
+<div class="note"><span class="notetitle">Note:  </span>The XML and XSL files you use for client-side transformations
+must reside in the same directory. If they don’t, the browser will
+read the XML file and find the XSLT page for the transformation,
+but will fail to find assets (style sheets, images, and so on) defined
+by relative links in the XSLT page.</div>
+<p>If you don’t own the XML page to which you’re linking (for example,
+if you want to use XML data from an RSS feed somewhere out on the
+web), the workflow is a bit more complicated. To perform client-side
+transformations using XML data from an external source, you must
+first download the XML source file to the same directory where your
+XSLT page resides. When the XML page is in your local site, you
+can use Dreamweaver to add the appropriate
+code that links it to the XSLT page, and post both pages (the downloaded
+XML file and the linked XSLT page) to your web server. When the
+user views the XML page in a browser, the XSLT page formats the
+content, just like in the previous example. </p>
+<p>The disadvantage of performing client-side XSL transformations
+on XML data that comes from an external source is that the XML data
+is only partially “dynamic.” The XML file that you download and
+alter is merely a “snapshot” of the file that lives elsewhere on
+the web. If the original XML file out on the web changes, you must
+download the file again, link it to the XSLT page, and repost the
+XML file to your web server. The browser only renders the data that
+it receives from the XML file on your web server, not the data contained
+in the original XML source file.</p>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7a45a.html">Performing XSL transformations on the client</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Create and edit conditional XSLT regions</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7a5ba.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7a4fa.html" title="Use parameters with XSL transformations"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7a49a.html" title="Insert XSL comments"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7a62a.html">Displaying XML data with XSLT</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7a5ba.html"><b>Performing XSL transformations on the server</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Create and edit conditional XSLT regions
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WS2174C473-1DFE-4115-9363-70ADB287ECCFa"><h4 class="topictitle4">Apply a conditional XSLT region</h4>
+</a></p></li><li><p><a href="#WS5954C169-97B8-46b3-B8E5-0640CC0EEF62a"><h4 class="topictitle4">Apply multiple conditional XSLT regions</h4>
+</a></p></li><li><p><a href="#WSD49FBBB6-521B-497f-93B9-3FA7C3B3BC69a"><h4 class="topictitle4">Set conditional region (If) properties</h4>
+</a></p></li><li><p><a href="#WS9968D731-D118-4b44-8851-D951E3A6B0B3a"><h4 class="topictitle4">Set conditional (When) properties</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><div class="section"><p>You
+can create simple conditional regions or multiple conditional regions
+on an XSLT page. You can either select an element in Design view
+and apply a conditional region to the selection, or you can insert
+a conditional region wherever the insertion point is in the document.</p>
+<p>For
+example, if you wanted to display the word “Unavailable” next to
+the price of an item when the item is unavailable, you type the
+text “Unavailable” on the page, select it, and then apply a conditional
+region to the selected text. Dreamweaver surrounds
+the selection with <samp class="codeph">&lt;xsl:if&gt;</samp> tags, and only displays
+the word “Unavailable” on the page when the data match the conditions of
+the conditional expression.</p>
+</div>
+</div>
+<div id="WS2174C473-1DFE-4115-9363-70ADB287ECCFa" class="nochunk"><a name="WS2174C473-1DFE-4115-9363-70ADB287ECCFa"></a><h3 class="topictitle3">Apply a conditional XSLT region</h3><div><div class="section"><p>You can write a simple conditional expression
+to insert into your XSLT page. If content is selected when you open
+the Conditional Region dialog box, the content will be wrapped in
+an <samp class="codeph">&lt;xsl:if&gt;</samp> block. If you rcontent is not
+selected, the <samp class="codeph">&lt;xsl:if&gt;</samp> block is added at
+the insertion point on the page. It’s a good idea to use the dialog
+box to get started and then customize the expression in Code view.</p>
+<p>The <samp class="codeph">&lt;xsl:if&gt;</samp> element
+is similar to the <samp class="codeph">if</samp> statement in other languages.
+The element provides a way for you to test a condition and take
+a course of action based on the result. The <samp class="codeph">&lt;xsl:if&gt;</samp> element
+allows you to test an expression for a single true or false value.</p>
+</div>
+<ol><li class="stepexpand"><span>Select Insert&#160;&gt; XSLT Objects&#160;&gt;
+Conditional Region or click the Conditional Region icon in the XLST
+category of the Insert panel.</span></li>
+<li class="stepexpand"><span>In the Conditional Region dialog box, enter the conditional
+expression to use for the region.</span> <p>In the following example, you want to test to see if the
+context node’s <samp class="codeph">@available</samp> attribute value is <samp class="codeph">true</samp>.</p>
+<div class="fignone"><img alt="" id="xm_conditionalregion1" src="images/xm_conditionalregion1.png" /><div class="figdesc"></div><br /></div></li>
+<li class="stepexpand"><span>Click OK.</span> <p>The following code is inserted in your XSLT page:</p>
+<div class="para"><pre>&lt;xsl:if test="@available=&amp;apos;true&amp;apos;"&gt; 
+    Content goes here 
+&lt;/xsl:if&gt;</pre>
+</div>
+<div class="note"><span class="notetitle">Note:  </span>You must surround string values
+such as true in quotes. Dreamweaver encodes
+the quotes for you (&amp;apos;) so that they are entered as valid
+XHTML.</div>
+<p>In addition to testing nodes for values, you can
+use any of the supported XSLT functions in any conditional statement.
+The condition is tested for the current node within your XML file.
+In the following example, you want to test for the last node in
+the result set:</p>
+<div class="fignone"><img alt="" id="xm_conditionalregion2" src="images/xm_conditionalregion2.png" /><div class="figdesc"></div><br /></div><p>For
+more information and examples on writing conditional expressions,
+see the <samp class="codeph">&lt;xsl:if&gt;</samp> section in the Reference
+panel (Help&#160;&gt; Reference).</p>
+</li>
+</ol>
+</div></div>
+<div id="WS5954C169-97B8-46b3-B8E5-0640CC0EEF62a" class="nochunk"><a name="WS5954C169-97B8-46b3-B8E5-0640CC0EEF62a"></a><h3 class="topictitle3">Apply multiple conditional XSLT regions</h3><div><div class="section"><p>You can write a simple conditional expression
+to insert into your XSLT page. If content is selected when you open
+the Conditional Region dialog box, the content is wrapped in an <samp class="codeph">&lt;xsl:choose&gt;</samp> block.
+If you do not select content, the <samp class="codeph">&lt;xsl:choose&gt;</samp> block
+is added at the insertion point on the page. It’s a good idea to
+use the dialog box to get started and then customize the expression
+in Code view.</p>
+<p>The <samp class="codeph">&lt;xsl:choose&gt;</samp> element
+is similar to the <samp class="codeph">case</samp> statement in other languages.
+The element provides a way for you to test a condition and take
+a course of action based on the result. The <samp class="codeph">&lt;xsl:choose&gt;</samp> element
+allows you to test for multiple conditions.</p>
+</div>
+<ol><li class="stepexpand"><span>Select Insert&#160;&gt; XSLT Objects&#160;&gt;
+Multiple Conditional Region or click the Multiple Conditional Region
+icon in the XLST category of the Insert panel.</span></li>
+<li class="stepexpand"><span>In the Multiple Conditional Region dialog box, enter
+the first condition. </span> <p>In the following example, you want to test to see if the
+context node’s <samp class="codeph">price</samp> subelement is less than 5.</p>
+<div class="fignone"><img alt="" id="xm_conditionalmultiple" src="images/xm_conditionalmultiple.png" /><div class="figdesc"></div><br /></div></li>
+<li class="stepexpand"><span>Click OK.</span> <p>In the example, the following code is inserted in your
+XSLT page:</p>
+<div class="para"><pre>&lt;xsl:choose&gt; 
+    &lt;xsl:when test="price&amp;lt;5"&gt; 
+        Content goes here 
+    &lt;/xsl:when&gt; 
+    &lt;xsl:otherwise&gt; 
+        Content goes here 
+    &lt;/xsl:otherwise&gt; 
+&lt;/xsl:choose&gt;</pre>
+</div>
+</li>
+<li class="stepexpand"><span>To insert another condition, place the insertion point
+in Code view between <samp class="codeph">&lt;xsl:when&gt;</samp> tag pairs
+or just before the <samp class="codeph">&lt;xsl:otherwise&gt;</samp> tag, and
+then insert a conditional region (Insert&#160;&gt; XSLT Objects&#160;&gt;
+Conditional Region).</span> <p>After you specify the condition and click OK, another <samp class="codeph">&lt;xsl:when&gt;</samp> tag
+is inserted in the <samp class="codeph">&lt;xsl:choose&gt;</samp> block. </p>
+<p>For
+more information and examples on writing conditional expressions,
+see the <samp class="codeph">&lt;xsl:choose&gt;</samp> sections in the Reference
+panel (Help&#160;&gt; Reference).</p>
+</li>
+</ol>
+</div></div>
+<div id="WSD49FBBB6-521B-497f-93B9-3FA7C3B3BC69a" class="nochunk"><a name="WSD49FBBB6-521B-497f-93B9-3FA7C3B3BC69a"></a><h3 class="topictitle3">Set conditional region (If) properties</h3><div><div class="section"><p>The purpose of the Set Conditional Region
+Property inspector is to change the condition used in a conditional
+region in your XSL page. The conditional region tests the condition
+and takes a course of action based on the result.</p>
+</div>
+<div class="p"><span><img src="images/dingbat.png" />&#160;In the Test box, enter a new condition, and then
+press Enter.</span></div>
+</div></div>
+<div id="WS9968D731-D118-4b44-8851-D951E3A6B0B3a" class="nochunk"><a name="WS9968D731-D118-4b44-8851-D951E3A6B0B3a"></a><h3 class="topictitle3">Set conditional (When) properties</h3><div><div class="section"><p>The purpose of the Set Conditional Region
+Property inspector is to change the condition used in a multiple
+conditional region in your XSL page. The multiple conditional region
+tests the condition and takes a course of action based on the result.</p>
+</div>
+<div class="p"><span><img src="images/dingbat.png" />&#160;In the Test box, enter a new condition, and then
+press Enter.</span></div>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

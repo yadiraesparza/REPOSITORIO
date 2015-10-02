@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Set site preferences for transferring files</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WSc78c5058ca073340dcda9110b1f693f21-7ed0a.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WSc78c5058ca073340dcda9110b1f693f21-7eeda.html" title="Access sites, a server, and local drives"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WSc78c5058ca073340dcda9110b1f693f21-7ee0a.html" title="Customize the file and folder details displayed in the expanded Files panel"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WSc78c5058ca073340dcda9110b1f693f21-7f05a.html">Creating and Managing Files</a> /
+     <a href="WSc78c5058ca073340dcda9110b1f693f21-7ed0a.html"><b>Managing files and folders</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Set site preferences for transferring files
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><div class="section"><p>You
+select preferences to control file transfer features that appear
+in the Files panel.</p>
+</div>
+<ol><li class="stepexpand"><span>Select Edit&#160;&gt; Preferences (Windows)
+or Dreamweaver&#160;&gt; Preferences (Macintosh).</span></li>
+<li class="stepexpand"><span>In the Preferences dialog box, select Site from the category
+list on the left.</span></li>
+<li class="stepexpand"><span>Set the options and click OK.</span> <dl><dt class="dlterm">Always Show</dt>
+<dd>Specifies which site (remote or local) is always shown,
+and in which Files panel pane (left or right) the local and remote
+files appear. <p>By default, the local site always appears on
+the right. Whichever pane is not chosen (the left one by default)
+is the changeable pane: this pane can display the files in the other
+site (the remote site by default).</p>
+</dd><p class="dlseparator"></p><dt class="dlterm">Dependent Files</dt>
+<dd>Displays a prompt for transferring dependent
+files (such as images, external style sheets, and other files referenced
+in the HTML file) that the browser loads when it loads the HTML
+file. By default, both Prompt on Get/Check Out and Prompt on Put/Check
+In are selected. <p>It’s usually a good idea to download dependent
+files when checking out a new file, but if the latest versions of
+the dependent files are already on the local disk, there’s no need
+to download them again. This is also true for uploading and checking
+in files: no need if up-to-date copies are already at the destination.</p>
+<div class="tip"><img src="images/tip_help.png" />If you deselect these options, your dependent files
+are not transferred. Therefore, to force the Dependent Files dialog
+box to appear even when these options are deselected, hold down
+Alt (Windows) or Option (Macintosh) while choosing the Get, Put,
+Check In, or Check Out commands.</div></dd><p class="dlseparator"></p><dt class="dlterm">FTP Connection</dt>
+<dd>Determines whether the connection to the remote site
+is terminated after the specified number of minutes have passed
+with no activity.</dd><p class="dlseparator"></p><dt class="dlterm">FTP Time Out</dt>
+<dd>Specifies the number of seconds in which Dreamweaver attempts to make a connection
+with the remote server. <p>If there is no response after the
+specified amount of time, Dreamweaver displays
+a warning dialog box alerting you to this fact.</p>
+</dd><p class="dlseparator"></p><dt class="dlterm">FTP Transfer options</dt>
+<dd>Determines whether Dreamweaver selects
+the default option, after a specified number of seconds, when a
+dialog box appears during a file transfer and there is no user response.</dd><p class="dlseparator"></p><dt class="dlterm">Firewall Host</dt>
+<dd>Specifies
+the address of the proxy server through which you connect to outside
+servers if you are behind a firewall. <p>If you are not behind
+a firewall, leave this space blank. If you are behind a firewall, select
+the Use Firewall option in the Site Definition dialog box. </p>
+</dd><p class="dlseparator"></p><dt class="dlterm">Firewall Port</dt>
+<dd>Specifies the port in your firewall through which you
+pass to connect to the remote server. If you connect through a port
+other than 21 (the default for FTP), enter the number here.</dd><p class="dlseparator"></p><dt class="dlterm">Put Options: Save Files Before Putting</dt>
+<dd>Indicates that unsaved files are saved automatically
+before being put onto the remote site.</dd><p class="dlseparator"></p><dt class="dlterm">Move Options: Prompt Before Moving Files on Server</dt>
+<dd>Alerts you when you attempt to move files on the remote
+site.</dd><p class="dlseparator"></p><dt class="dlterm">Manage Sites</dt>
+<dd>Opens the Manage Sites dialog box, where you can edit
+an existing site or create a new one.<div class="tip"><img src="images/tip_help.png" />You
+can define whether the types of files that you transfer are transferred
+as ASCII (text) or binary, by customizing the FTPExtensionMap.txt
+file in the Dreamweaver/Configuration folder
+(on the Macintosh, FTPExtensionMapMac.txt). For more information
+see, <dfn class="term">Extending </dfn>Dreamweaver.</div></dd><p class="dlseparator"></p></dl>
+</li>
+</ol>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WSBE25912D-A9DE-4ba1-9F85-4C692F5C14ADa.html">Set up a remote folder</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

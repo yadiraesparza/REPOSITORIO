@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Compare local and remote files for differences</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WSc78c5058ca073340dcda9110b1f693f21-7edda.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WSc78c5058ca073340dcda9110b1f693f21-7edda.html" title="Comparing files for differences"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WS3300961D-2BEA-4bb1-9605-C7C0B15047D6a.html" title="Compare before putting files"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WSc78c5058ca073340dcda9110b1f693f21-7f05a.html">Creating and Managing Files</a> /
+     <a href="WSc78c5058ca073340dcda9110b1f693f21-7edda.html"><b>Comparing files for differences</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Compare local and remote files for differences
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WSB7A22ECC-36F3-4be5-84AC-AA17FBB244EAa"><h4 class="topictitle4">Specify a comparison tool in Dreamweaver</h4>
+</a></p></li><li><p><a href="#WSB29F6658-4435-4c96-95D1-B01C0AA79985a"><h4 class="topictitle4">Compare two local files</h4>
+</a></p></li><li><p><a href="#WS3E222756-8E1A-450d-8C51-3029FE59C9ACa"><h4 class="topictitle4">Compare two remote files</h4>
+</a></p></li><li><p><a href="#WSCEA8AFD0-3CB5-45cc-A48F-9EDFD7B777B7a"><h4 class="topictitle4">Compare a local file to a remote file</h4>
+</a></p></li><li><p><a href="#WSc78c5058ca073340dcda9110b1f693f21-7ed7a"><h4 class="topictitle4">Compare a remote file to a local file</h4>
+</a></p></li><li><p><a href="#WSA8933EAF-0311-44df-869A-1B7721A037FFa"><h4 class="topictitle4">Compare an open file to a remote file</h4>
+</a></p></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><p>Dreamweaver can work with file comparison
+tools (also known as “diff tools”) to compare the code of local
+and remote versions of the same file, two different remote files,
+or two different local files. Comparing local and remote versions
+is useful if you’re working on a file locally and you suspect the
+copy of the file on the server has been modified by someone else.
+Without leaving Dreamweaver, you can view
+and merge the remote changes into your local version before putting
+the file to the server. </p>
+<p>Comparing two local files or two remote files is also useful
+if you keep previous, renamed versions of your files. If you’ve
+forgotten the changes made to a file from a previous version, a
+quick comparison will remind you.</p>
+<p>Before you start, you must install a third-party file comparison
+tool on your system. For more information on file comparison tools,
+use a web search engine such as Google Search to search for “file
+comparison” or “diff” tools. Dreamweaver works
+with most third-party tools.</p>
+</div>
+<div id="WSB7A22ECC-36F3-4be5-84AC-AA17FBB244EAa" class="nochunk"><a name="WSB7A22ECC-36F3-4be5-84AC-AA17FBB244EAa"></a><h3 class="topictitle3">Specify a comparison tool in Dreamweaver</h3><div><ol><li class="stepexpand"><span>Install the file comparison tool on
+the same system as Dreamweaver. </span></li>
+<li class="stepexpand"><span>In Dreamweaver, open the Preferences
+dialog box by selecting Edit&#160;&gt; Preferences (Windows)
+or Dreamweaver&#160;&gt; Preferences (Macintosh), and then select
+the File Compare category.</span></li>
+<li class="stepexpand"><span>Do one of the following:</span><ul><li><p>In Windows, click the Browse button and
+select the application that compares files.</p>
+</li>
+<li><p>On the Macintosh, click the Browse button and select
+the tool or script that launches the file comparison tool from the
+command line, not the actual comparison tool itself.</p>
+</li>
+</ul>
+ <p>Launch tools or scripts are typically located in the usr/bin
+folder on your Macintosh. For example, if you want to use FileMerge,
+browse to usr/bin and select opendiff, which is the tool that launches
+FileMerge.</p>
+<p>The following table lists common file comparison
+tools for the Macintosh and the location of their launch tools or
+scripts on your hard disk:</p>
+</li>
+</ol>
+<div class="section">
+<div class="tablenoborder"><table border="1" cellpadding="4" cellspacing="0"><thead align="left"><tr><th valign="top" width="NaN%" id="d16e8774"><p>If you use</p>
+</th>
+<th valign="top" width="NaN%" id="d16e8777"><p>Select the following file</p>
+</th>
+</tr>
+</thead>
+<tbody><tr><td valign="top" width="NaN%" headers="d16e8774 "><p>FileMerge</p>
+</td>
+<td valign="top" width="NaN%" headers="d16e8777 "><p>usr/bin/opendiff</p>
+</td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e8774 "><p>BBEdit</p>
+</td>
+<td valign="top" width="NaN%" headers="d16e8777 "><p>usr/bin/bbdiff</p>
+</td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e8774 "><p>TextWrangler</p>
+</td>
+<td valign="top" width="NaN%" headers="d16e8777 "><p>usr/bin/twdiff</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="note"><span class="notetitle">Note:  </span>The usr folder is normally hidden in
+Finder. However, you can access it with the Browse button in Dreamweaver.</div>
+<div class="note"><span class="notetitle">Note:  </span>The actual results
+displayed depends on the diff tool you are using. Check the user
+manual for your tool to understand how to interpret the results.</div>
+</div>
+</div></div>
+<div id="WSB29F6658-4435-4c96-95D1-B01C0AA79985a" class="nochunk"><a name="WSB29F6658-4435-4c96-95D1-B01C0AA79985a"></a><h3 class="topictitle3">Compare two local files</h3><div><div class="section"><p>You can compare two files located anywhere
+on your computer.</p>
+</div>
+<ol><li class="stepexpand"><span>In the Files panel, Control‑click (Windows) or
+Command-click (Macintosh) the two files to select them.</span> <div class="tip"><img src="images/tip_help.png" />To select files outside your defined site,
+select your local disk from the left pop‑up menu in the Files panel
+and then select the files.</div></li>
+<li class="stepexpand"><span>Right-click one of the selected files and select Compare
+Local Files from the context menu.</span> <div class="note"><span class="notetitle">Note:  </span>If you have a one-button mouse, Control‑click one of
+the selected files instead. </div>
+<p>The file comparison tool starts
+and compares the two files.</p>
+</li>
+</ol>
+</div></div>
+<div id="WS3E222756-8E1A-450d-8C51-3029FE59C9ACa" class="nochunk"><a name="WS3E222756-8E1A-450d-8C51-3029FE59C9ACa"></a><h3 class="topictitle3">Compare two remote files</h3><div><div class="section"><p>You can compare two files located on your
+remote server. You must define a Dreamweaver site
+with remote settings before you can accomplish this task.</p>
+</div>
+<ol><li class="stepexpand"><span>In the Files panel, display the files on the remote
+server by selecting Remote View from the right pop‑up menu.</span></li>
+<li class="stepexpand"><span>Control‑click (Windows) or Command-click (Macintosh)
+the two files to select them</span></li>
+<li class="stepexpand"><span>Right-click one of the selected files and select Compare
+Remote Files from the context menu.</span> <div class="note"><span class="notetitle">Note:  </span>If you have a one-button mouse, Control‑click one of
+the selected files instead.</div>
+<p>The file comparison tool starts
+and compares the two files. </p>
+</li>
+</ol>
+</div></div>
+<div id="WSCEA8AFD0-3CB5-45cc-A48F-9EDFD7B777B7a" class="nochunk"><a name="WSCEA8AFD0-3CB5-45cc-A48F-9EDFD7B777B7a"></a><h3 class="topictitle3">Compare a local file to a remote file</h3><div><div class="section"><p>You can compare a local file to a file located
+on your remote server. To do this, you must first define a Dreamweaver site with remote settings. </p>
+</div>
+<div class="p"><span><img src="images/dingbat.png" />&#160;In the Files panel, right-click a local file and
+select Compare With Remote from the context menu.</span> <div class="note"><span class="notetitle">Note:  </span>If you have a one-button mouse, Control‑click the local
+file instead.</div>
+<p>The file comparison tool starts and compares
+the two files. </p>
+</div>
+</div></div>
+<div id="WSc78c5058ca073340dcda9110b1f693f21-7ed7a" class="nochunk"><a name="WSc78c5058ca073340dcda9110b1f693f21-7ed7a"></a><h3 class="topictitle3">Compare a remote file to a local file</h3><div><div class="section"><p>You can compare a remote file to a local file.
+You must define a Dreamweaver site with remote
+settings before accomplishing this task.</p>
+</div>
+<ol><li class="stepexpand"><span>In the Files panel, display the files on the remote
+server by selecting Remote View from the right pop‑up menu.</span></li>
+<li class="stepexpand"><span>Right-click a file in the panel and select Compare with
+Local from the context menu.</span> <div class="note"><span class="notetitle">Note:  </span>If you have a one-button mouse, Control‑click the file
+instead.</div>
+</li>
+</ol>
+</div></div>
+<div id="WSA8933EAF-0311-44df-869A-1B7721A037FFa" class="nochunk"><a name="WSA8933EAF-0311-44df-869A-1B7721A037FFa"></a><h3 class="topictitle3">Compare an open file to a remote file</h3><div><div class="section"><p>You can compare a file open in Dreamweaver to its counterpart on the remote
+server.</p>
+</div>
+<div class="p"><span><img src="images/dingbat.png" />&#160;In the Document window, select File&#160;&gt;
+Compare with Remote. </span> <p>The file comparison tool starts and compares the two files.</p>
+<div class="tip"><img src="images/tip_help.png" />You can also right-click the document tab along
+the top of the Document window and select Compare with Remote from
+the context menu.</div></div>
+</div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7f5fa.html">Set up and edit a local root folder</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

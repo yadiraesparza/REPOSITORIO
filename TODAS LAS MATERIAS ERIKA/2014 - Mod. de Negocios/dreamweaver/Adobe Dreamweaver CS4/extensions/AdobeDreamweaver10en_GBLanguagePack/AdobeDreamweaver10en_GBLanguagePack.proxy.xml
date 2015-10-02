@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="2.0.133.0">
+  <BuildInfo>
+    <Property name="Created">2008-09-10 18:55:53.843000</Property>
+    <Property name="TargetName">AdobeDreamweaver10en_GBLanguagePack</Property>
+    <Property name="ProcessorFamily">All</Property>
+  </BuildInfo>
+  <InstallerProperties>
+    <Property name="AdobeCode">{85022982-C128-4177-96E4-6E04B88C489C}</Property>
+    <Property name="ProductName">Adobe Dreamweaver CS4 LangPack (en_GB) </Property>
+    <Property name="ProductVersion">10.0</Property>
+  </InstallerProperties>
+  <InstallDir>
+    <Platform isFixed="0" name="Default" folderName="">[AdobeProgramFiles]</Platform>
+    <Platform isFixed="0" name="OSX" folderName="">[AdobeProgramFiles]</Platform>
+    <Platform isFixed="0" name="Win32" folderName="">[AdobeProgramFiles]</Platform>
+  </InstallDir>
+  <Languages>
+    <Language>en_GB</Language>
+  </Languages>
+  <Satisfies>
+    <ProductInfo>
+		<Family>Dreamweaver</Family>
+		<ProductName>Adobe Dreamweaver CS4_AdobeDreamweaver10en_GBLanguagePack</ProductName>
+	
+	<ProductVersion>10.0</ProductVersion>
+    </ProductInfo>
+  </Satisfies>
+  <Extends type="langPack">
+    <ParentProductInfo minVersion="10.0">
+                                        <Family>Dreamweaver</Family>
+                                        <ProductName>Adobe Dreamweaver CS4</ProductName>
+                                </ParentProductInfo>
+  </Extends>
+  <InstallDestinationMetadata><Destination>
+      <Root>[INSTALLDIR]</Root>
+      <TotalSize>11260708</TotalSize>
+      <MaxPathComponent>/Adobe Dreamweaver CS4/en_GB/Configuration/Styles\Conn_CF_04_MSAccessUnicode_Adv.css</MaxPathComponent>
+    </Destination>
+    <Destination>
+      <Root>[AdobeCommon]</Root>
+      <TotalSize>18452488</TotalSize>
+      <MaxPathComponent>/Startup Scripts CS4/Dreamweaver/dreamweaver-10.0\dreamweaver-10.0_en_US.dat</MaxPathComponent>
+    </Destination>
+  </InstallDestinationMetadata>
+  <ConflictingProcesses>
+	<Win32>
+	</Win32>
+</ConflictingProcesses>
+  <AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="en_GB">10.0</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="en_GB">Adobe Dreamweaver CS4 LangPack (en_GB) </Value>
+    </DisplayName>
+  </AddRemoveInfo>
+  <UserPreferences>0</UserPreferences>
+</PayloadInfo>

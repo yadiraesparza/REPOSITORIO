@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Previewing pages in browsers</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7bfaa.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WS0459F349-E2DC-4d31-ADCF-F954B79D9A77.html" title="Previewing pages in Dreamweaver"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WSE8C49A23-CEAF-41e5-ACD9-AD1DA1953C95.html" title="Previewing pages in mobile devices"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7bfda.html"><b>Previewing pages</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Previewing pages in browsers
+                </h1>
+<!-- END PAGE TITLE -->
+                <br clear="both" /><div id="minitoc"><div class="t"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tl"><div class="tr"><div><h3>Contents [<a href="#" onclick="return toggleMiniToc('minitoc-links', this);" class="hideLink">Hide</a>]</h3><ul id="minitoc-links"><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7bf9a"><h3 class="topictitle3">Preview in a browser</h3>
+</a></p></li><li><p><a href="#WSc78c5058ca073340dcda9110b1f693f21-7c76a"><h3 class="topictitle3">Set browser preview preferences</h3>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7bf7a"><h3 class="topictitle3">Preview active content in Internet Explorer (Windows)</h3>
+</a></p><ul><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7bf6a"><h4 class="topictitle4">Insert Mark of the Web code</h4>
+</a></p></li><li><p><a href="#WScbb6b82af5544594822510a94ae8d65-7bf5a"><h4 class="topictitle4">Remove Mark of the Web code</h4>
+</a></p></li></ul></li></ul></div></div><br clear="both" /></div></div></div></div></div></div></div></div><br clear="both" /><div><ul class="navlinklist"></ul>
+</div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7bf9a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7bf9a"></a><h2 class="topictitle2">Preview in a browser</h2><div><div class="section"><p>You can preview a page in a browser at any
+time; you don’t have to upload it to a web server first. When you
+preview a page, all browser-related functions should work, including
+JavaScript behaviors, document‑relative and absolute links, ActiveX® controls, and Netscape Navigator plug‑ins,
+provided that you installed the required plug‑ins or ActiveX controls
+in your browsers.</p>
+<p>Before previewing a document, save the
+document; otherwise, the browser does not display your most recent
+changes.</p>
+</div>
+<ol><li class="stepexpand"><span>Do one of the following to preview the page:</span><ul><li><p>Select
+File&#160;&gt; Preview In Browser, and then select one of the
+listed browsers.</p>
+<div class="note"><span class="notetitle">Note:  </span>If no browsers are listed, select Edit&#160;&gt;
+Preferences or  Dreamweaver&#160;&gt; Preferences
+(Macintosh), and then select the Preview In Browser category on
+the left to select a browser.</div>
+</li>
+<li><p>Press F12 (Windows) or Option+F12 (Macintosh) to
+display the current document in the primary browser.</p>
+</li>
+<li><p>Press Control+F12 (Windows) or Command+F12 (Macintosh)
+to display the current document in the secondary browser.</p>
+</li>
+</ul>
+</li>
+<li class="stepexpand"><span>Click links and test content in your page.</span> <div class="para">If you use Internet Explorer on a Windows XP computer with
+Service Pack 2 installed, the browser may display a message that
+tells you it has restricted the file from showing active content.
+You can fix this problem by including Mark of the Web code in the
+file.<div class="note"><span class="notetitle">Note:  </span>Content linked with a site root-relative path does not
+appear when you preview documents in a local browser unless you
+specify a testing server, or select the Preview Using Temporary
+File option in Edit&#160;&gt; Preferences&#160;&gt; Preview
+In Browser. This is because browsers don’t recognize site roots—servers
+do.</div>
+<div class="tip"><img src="images/tip_help.png" />To preview content linked with root-relative
+paths, put the file on a remote server, and then select File&#160;&gt;
+Preview In Browser to view it.</div></div>
+</li>
+<li class="stepexpand"><span>Close the page in the browser when you finish testing.</span></li>
+</ol>
+</div></div>
+<div id="WSc78c5058ca073340dcda9110b1f693f21-7c76a" class="nochunk"><a name="WSc78c5058ca073340dcda9110b1f693f21-7c76a"></a><h2 class="topictitle2">Set browser preview preferences</h2><div><div class="section"><p>You
+can set preferences for the browser to use when previewing a site
+and define default primary and secondary browsers.</p>
+</div>
+<ol><li class="stepexpand"><span>Select File&#160;&gt; Preview In Browser&#160;&gt;
+Edit Browser List.</span></li>
+<li class="stepexpand"><span>To add a browser to the list, click the Plus (+) button,
+complete the Add Browser dialog box, and then click OK.</span></li>
+<li class="stepexpand"><span>To delete a browser from the list, select the browser,
+and then click the Minus (-) button.</span></li>
+<li class="stepexpand"><span>To change settings for a selected browser, click the
+Edit button, make changes in the Edit Browser dialog box, and then
+click OK.</span></li>
+<li class="stepexpand"><span>Select the Primary Browser or the Secondary Browser option
+to specify whether the selected browser is the primary or secondary
+browser. </span> <p>F12 (Windows) or Option+F12 (Macintosh) opens the primary
+browser; Control+F12 (Windows) or Command+F12 (Macintosh) opens
+the secondary browser.</p>
+</li>
+<li class="stepexpand"><span>Select Preview Using Temporary File to create a temporary
+copy for previewing and server debugging. (Deselect this option
+if you want to update the document directly.)</span></li>
+</ol>
+</div></div>
+<div id="WScbb6b82af5544594822510a94ae8d65-7bf7a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7bf7a"></a><h2 class="topictitle2">Preview active content in Internet Explorer (Windows)</h2><div><div class="section"><p>If you preview a document that contains
+active content in Internet Explorer after installing the Windows
+XP Service Pack 2 update, the browser does not show active content.
+You can fix this problem by inserting Mark of the Web code in your
+document. </p>
+<p>Internet Explorer blocks active content and scripting
+that tries to run in the Local Machine zone. For security reasons,
+Microsoft increased the restrictions on what can run in this zone
+by default. Mark of the Web code tells the browser to run active
+content in another zone, in this case, the Internet zone. For more
+information, see TechNote 19578 on the Adobe website at <a href="http://www.adobe.com/go/19578" target="_blank">www.adobe.com/go/19578</a>.</p>
+</div>
+</div><div id="WScbb6b82af5544594822510a94ae8d65-7bf6a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7bf6a"></a><h3 class="topictitle3">Insert Mark of the Web code</h3><div><div class="p"><span><img src="images/dingbat.png" />&#160;With your document open in Dreamweaver, select Commands&#160;&gt;
+Insert Mark Of The Web.</span> <p>Dreamweaver inserts the following
+line in your code:</p>
+<div class="para"><pre>&lt;!-- saved from url=(0014)about:internet --&gt;</pre>
+</div>
+<p>The
+line tells the browser to bypass the Local Machine zone and run
+the active content in the Internet zone.</p>
+</div>
+</div></div><div id="WScbb6b82af5544594822510a94ae8d65-7bf5a" class="nochunk"><a name="WScbb6b82af5544594822510a94ae8d65-7bf5a"></a><h3 class="topictitle3">Remove Mark of the Web code</h3><div><ol><li><span>In Dreamweaver,
+open the document containing the Mark of the Web code.</span></li>
+<li><span>Select Commands&#160;&gt; Remove Mark Of The Web.</span></li>
+</ol>
+</div></div></div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7c3fa.html">Site root–relative paths</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

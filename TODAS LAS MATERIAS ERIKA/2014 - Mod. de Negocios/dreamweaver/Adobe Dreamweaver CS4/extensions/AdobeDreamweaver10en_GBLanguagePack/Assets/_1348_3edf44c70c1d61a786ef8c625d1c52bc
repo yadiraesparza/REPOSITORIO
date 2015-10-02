@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Links in templates</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7acca.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7acaa.html" title="Types of template regions"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7ac8a.html" title="Server scripts in templates and template-based documents"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7acda.html">Creating and managing templates</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7acca.html"><b>About Dreamweaver templates</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Links in templates
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><p>When you create a template file by saving an existing
+page as a template, the new template in the Templates folder, and
+any links in the file are updated so that their document-relative
+paths are correct. Later, when you create a document based on that
+template and save it, all the document-relative links are updated again
+to continue to point to the correct files. </p>
+<p>When you add a new document-relative link to a template file,
+it’s easy to enter the wrong path name if you type the path into
+the link text box in the Property inspector. The correct path in
+a template file is the path from the Templates folder to the linked
+document, not the path from the template-based document’s folder
+to the linked document. Ensure that the correct paths for links
+exist by using either the folder icon or the Point-to-file icon
+in the Property inspector when creating links in templates.</p>
+<div class="section"><h4 class="sectiontitle">Dreamweaver 8.01 link update preference</h4><p>Previous
+to Dreamweaver 8 (that is, Dreamweaver MX 2004 and earlier), Dreamweaver did <dfn class="term">not</dfn> update links
+to files that resided in the Templates folder. (For example, if
+you had a file called main.css in the Templates folder, and had
+written href="main.css" as a link in the template file, Dreamweaver would not update this link when
+creating a template-based page.)</p>
+<p>Some users took advantage
+of the way Dreamweaver treated links to files
+in the Templates folder, and used this inconsistency to create links
+that they intentionally did not want to update when creating template-based
+pages. For example, if you are using Dreamweaver MX 2004, and have
+a site with different folders for different applications—Dreamweaver, Flash, and Photoshop. Each product
+folder contains a template-based index.html page, and a unique version of
+the main.css file at the same level. If the template file contains
+the document-relative link href="main.css" (a link to a version
+of the main.css file in the Templates folder), and you want your
+template-based index.html pages also to contain this link as written,
+you can create the template-based index.html pages without having
+to worry about Dreamweaver updating those
+particular links. When Dreamweaver MX 2004 creates the template-based
+index.html pages, the (un-updated) href="main.css" links refer to
+the main.css files that reside in the Dreamweaver, Flash, and Photoshop
+folders, not to the main.css file that resides in the Templates
+folder.</p>
+<p>In Dreamweaver 8, however, this behavior was changed
+so that all document-relative links are updated when creating template-based
+pages, regardless of the apparent location of the linked files.
+In this scenario, Dreamweaver examines the
+link in the template file (href="main.css") and creates a link in
+the template-based page that is <dfn class="term">relative to the location of
+the new document</dfn>. For example, if you are creating a template-based
+document one level up from the Templates folder, Dreamweaver would
+write the link in the new document as href="Templates/main.css".
+This update in Dreamweaver 8 broke links in pages created by those
+designers who had taken advantage of Dreamweaver’s former practice
+of not updating links to files in the Templates folder.</p>
+<p>Dreamweaver
+8.01 added a preference that enables you to turn the update relative
+links behavior on and off. (This special preference only applies
+to links to files in the Templates folder, not to links in general.)
+The default behavior is to <dfn class="term">not</dfn> update these links (as
+in Dreamweaver MX 2004 and before), but if you want Dreamweaver
+to update these kinds of links when creating template-based pages,
+you can deselect the preference. (You would only do this if, for
+example, you had a Cascading Style Sheets (CSS) page, main.css,
+in your Templates folder, and you wanted a template-based document
+to contain the link href="Templates/main.css"; but this is not recommended
+practice as only Dreamweaver template (DWT) files should reside
+in the Templates folder.) </p>
+<p>To have Dreamweaver update document-relative
+paths to non-template files in the Templates folder, select the
+Templates category on the Advanced tab of the Site Definition dialog
+box, and deselect the Don’t Rewrite Document Relative Paths option.</p>
+<p>For
+more information, see the Dreamweaver TechNote on the Adobe website
+at <a href="http://www.adobe.com/go/f55d8739" target="_blank">www.adobe.com/go/f55d8739</a>.</p>
+</div>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7c3aa.html">Link to documents using the Point-To-File icon</a></p><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7c40a.html">Document-relative paths</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>

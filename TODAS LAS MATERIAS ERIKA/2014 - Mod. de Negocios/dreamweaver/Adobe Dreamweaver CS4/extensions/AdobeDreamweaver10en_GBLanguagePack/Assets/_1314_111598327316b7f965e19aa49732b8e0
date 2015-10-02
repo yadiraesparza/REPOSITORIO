@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--#config errmsg="" --><!-- saved from url=(0022)http://help.adobe.com/ -->
+<html lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <meta name="lang" content="en-us" />
+        <meta name="area" content="livedocs" />
+        <title>Dreamweaver CS4 * Set values for an optional region</title>
+        <meta name="product" content="$product" />
+        <meta name="productv" content="" />
+        <meta name="keywords" content="" />
+        <script type="text/javascript" language="Javascript" charset="UTF-8"><!--[CDATA[
+        var currentTreeNode = "WScbb6b82af5544594822510a94ae8d65-7aaba.html";
+// ]]--></script>
+<script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script>  <script src="utilities.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="event.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="treeview.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="toc.js" language="Javascript" type="text/javascript" charset="UTF-8">..</script> 
+<script type="text/javascript">
+<!--[CDATA[
+var headId = document.getElementsByTagName("head")[0];         
+if (use_ie_6_behavior) {
+    var linkId = document.createElement("link");
+    linkId.href = "content-ie6.css";
+    linkId.rel = "stylesheet";
+    linkId.type = "text/css";
+    headId.appendChild(linkId);
+}
+// ]]-->
+</script>
+<!--#include virtual="/livedocs/ssi/globalheader.ssi" -->
+        <link rel="stylesheet" type="text/css" href="tree.css" />
+        <link rel="stylesheet" type="text/css" href="content-fonts.css" />
+        <link rel="stylesheet" type="text/css" href="content-hyperlinks.css" />
+        <link rel="stylesheet" type="text/css" href="content.css" />
+        <link rel="stylesheet" type="text/css" href="localeSpecific.css" />
+    </head>
+    <body id="content_body" onload="window.focus();">
+        <a name="top"></a><div id="mnemonic">
+            <div class="Dreamweaver"><table><tr><td class="banner">Dreamweaver CS4</td><td class="pod"><img src="images/PDF.gif" width="16" height="16" hspace="15" valign="50%" />&#160;&#160;
+                     <a title="PDF" href="http://help.adobe.com/en_US/Dreamweaver/10.0_Using/dreamweaver_cs4_help.pdf">
+                         PDF (adobe.com) 
+                    </a></td></tr></table></div>
+        </div>
+        <div id="searchbar">
+<!-- BEGIN SEARCH CONTENT -->
+            <form class="search_form" id="search" name="search" action="search.html" target="_self">
+                <img src="images/search.png" />
+<script type="text/javascript">
+<!--[CDATA[
+function clearSearch(){
+    if (document.search.q.value == terms_AHV_SEARCH_BUTTON){document.search.q.value = ""}; 
+}
+document.write('<input class=\"search_input\" \
+        name=\"q\" \
+        id=\"q\" \
+        type=\"text\" \
+        maxlength=\"256\" \
+        value=\"' + terms_AHV_SEARCH_BUTTON + '\" onclick=\"clearSearch()\"><\/input>'); 
+// ]]-->
+
+
+</script> 
+            </form>
+        </div>
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+        <div id="page_content_wrapper">
+<!-- BEGIN PAGE WRAPPER -->
+<table id="page_content_table">
+<tr>
+<td id="col1">
+<!-- BEGIN IONCOMMENTCOUNT -->
+            <div id="ionComCount">
+            </div>
+<!-- END IONCOMMENTCOUNT -->
+<!-- BEGIN GROUP TOC WRAPPER -->
+            <div id="group_toc"><p>Dreamweaver CS4 Resources</p><ul><li><p><a href="../../Dreamweaver/10.0/index.html" target="_blank">Using
+Dreamweaver CS4</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_Extending/index.html" target="_blank">Extending Dreamweaver CS4 (adobe.com)</a></p>
+</li><li><p><a href="http://help.adobe.com/en_US/Dreamweaver/10.0_API_Ref/index.html" target="_blank">Dreamweaver API Reference (adobe.com)</a></p>
+</li></ul></div>
+<!-- END GROUP TOC WRAPPER -->
+<!-- BEGIN NAV WRAPPER -->
+            <div id="group_toc">
+<script type="text/javascript">
+<!--[CDATA[
+if ( typeof(terms_BOOK_SHORT) != 'undefined' ) {
+  document.write("<p>" + terms_BOOK_SHORT + "<\/p>");
+}
+// ]]-->
+
+
+</script> 
+            </div>
+            <div id="nav_content">
+            </div>
+<!-- END NAV WRAPPER -->
+</td>
+<td id="col2">
+<!-- BEGIN CONTENT WRAPPER -->
+<!-- BEGIN BREADCRUMBS -->
+            
+            <div id="breadcrumb">
+                
+<ul class="navigation"><li class="prev"><a accesskey="p" class="prev" href="WScbb6b82af5544594822510a94ae8d65-7aa9a.html" title="Insert an optional region"><img src="images/blank.gif" alt="Previous" width="17" height="17" /></a></li><li class="next"><a accesskey="n" class="next" href="WScbb6b82af5544594822510a94ae8d65-7aa5a.html" title="Defining editable tag attributes"><img src="images/blank.gif" alt="Next" width="17" height="17" /></a></li></ul><div class="hierarchy"><a href="WScbb6b82af5544594822510a94ae8d65-7acda.html">Creating and managing templates</a> /
+     <a href="WScbb6b82af5544594822510a94ae8d65-7aaba.html"><b>Using optional regions</b></a> 
+     </div>
+
+            </div>
+<!-- END BREADCRUMBS -->
+            <div id="content_wrapper">
+<!-- BEGIN PAGE TITLE -->
+                <h1>
+                    Set values for an optional region
+                </h1>
+<!-- END PAGE TITLE -->
+                <div><div class="section"><p>You can edit optional
+region settings after you’ve inserted the region in a template.
+For example, you can change whether the default setting for the content
+is to be displayed or not, to link a parameter to an existing optional region,
+or to modify a template expression.</p>
+<p>Create template
+parameters and define conditional statements (If...else statements)
+for template regions. You can use simple true/false operations,
+or define more complex conditional statements and expressions.</p>
+<p>In
+the Advanced tab you can link multiple optional regions to a named parameter.
+In the template-based document, both regions will show or hide as
+a unit. For example, you can show a “closeout” image and sales price
+text area for a sale item. </p>
+<p>You can also use the Advanced
+tab to write a template expression that evaluates a value for the
+optional region and shows it or hides it based on the value.</p>
+</div>
+<ol><li class="stepexpand"><span>In the Document window, do one of the following:</span><ul><li><p>In Design view, click the template tab
+of the optional region you want to modify.</p>
+</li>
+<li><p>In Design view, place the insertion point in the
+template region; then in the tag selector at the bottom of the Document
+window, select the template tag, <samp class="codeph">&lt;mmtemplate:if&gt;</samp>.</p>
+</li>
+<li><p>In Code view, click the comment tag of the template
+region you want to modify.</p>
+</li>
+</ul>
+</li>
+<li class="stepexpand"><span>In the Property inspector (Window&#160;&gt; Properties),
+click Edit.</span></li>
+<li class="stepexpand"><span>In the Basics tab, enter a name for the parameter in
+the Name box.</span></li>
+<li class="stepexpand"><span>Select Show By Default to set the selected region to
+show in the document. Deselect it to set the default value to false.</span> <div class="note"><span class="notetitle">Note:  </span>To set a different value for the parameter, in Code
+view locate the parameter in the section of the document and edit
+the value.</div>
+</li>
+<li class="stepexpand"><span>(Optional) Click the Advanced tab, then set the following
+options:</span><ul><li><p>If you want to link optional region parameters,
+click the Advanced tab, select Use Parameter, then from the pop‑up
+menu select the existing parameter you want to link the selected
+content to.</p>
+</li>
+<li><p>If you want to write a template expression to control
+the display of an optional region, click the Advanced tab, select
+Enter Expression, then enter the expression in the box.</p>
+<div class="note"><span class="notetitle">Note:  </span>Dreamweaver
+inserts double-quotation marks around the text you enter.</div>
+</li>
+</ul>
+</li>
+<li class="stepexpand"><span>Click OK.</span> <div class="para">When you use the Optional Region template object, Dreamweaver
+inserts template comments in the code. A template parameter is defined
+in the <samp class="codeph">head</samp> section, as in the following example:<pre>&lt;!-- TemplateParam name="departmentImage" type="boolean" value="true" --&gt;</pre>
+</div>
+<p>At
+the location where the optional region is inserted, code similar
+to the code below appears:</p>
+<div class="para"><pre>&lt;!-- TemplateBeginIf cond="departmentImage" --&gt; 
+&lt;p&gt;&lt;img src="/images/airfare_on.gif" width="85" height="22"&gt; &lt;/p&gt; 
+&lt;!-- TemplateEndIf --&gt; </pre>
+</div>
+<p>You can access and
+edit template parameters in the template-based document.</p>
+</li>
+</ol>
+</div>
+
+                <div id="related">
+                    <div class="separator">&#160;</div>
+                    <div><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7a7fa.html">Modify template properties</a></p><p>&#160;<a href="WScbb6b82af5544594822510a94ae8d65-7ac6a.html">Template expressions</a></p>
+</div>
+                    
+                </div>
+                <div id="footer">
+                    <p><img src="images/Community.png" />&#160;<a title="community help (adobe.com)" href="http://www.adobe.com/go/lr_Dreamweaver_community_en">community help (adobe.com)</a></p>
+<!-- BEGIN IONCOMMENTS -->
+                    <div id="ionComHere">
+                    </div>
+<!-- END IONCOMMENTS -->
+<!--#include virtual="ionComments.ssi" -->
+                    <p id="creativecommons"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" id="creativecommons_text"><img id="creativecommons_img" src="images/CC.png" alt="This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" /></a></p>
+                </div>
+            </div>
+<!-- END CONTENT WRAPPER -->
+</td>
+</tr>
+</table>
+        </div>
+<!-- END PAGE CONTENT WRAPPER -->
+<script type="text/javascript">
+<!--[CDATA[
+scrollToNameAnchor();
+// ]]-->
+</script> 
+<!--#include virtual="/livedocs/ssi/globalfooter.ssi" -->
+<!--#include virtual="/ubi/analytics/analytics_ssi.html" -->
+    </body>
+</html>
